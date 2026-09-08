@@ -1,0 +1,47 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+gmrid_env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw or downloaded data
+data/raw/
+data/downloads/
+
+# Generated outputs
+outputs/
+logs/
+*.log
+
+# Trained models and large artifacts
+models/
+artifacts/
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+tmp/
+temp/
