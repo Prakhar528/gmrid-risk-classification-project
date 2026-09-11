@@ -27,7 +27,6 @@ data/raw/
 data/downloads/
 
 # Generated outputs
-outputs/
 logs/
 *.log
 

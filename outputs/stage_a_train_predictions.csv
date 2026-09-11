@@ -1,0 +1,3323 @@
+id,stage_a_predictions
+552,"[""weather_disruption""]"
+2973,"[""labor_strike_disruption""]"
+6,"[""weather_disruption"", ""port_operational_disruption""]"
+4537,"[""port_operational_disruption""]"
+3771,"[""weather_disruption""]"
+3090,[]
+1947,"[""weather_disruption"", ""port_operational_disruption"", ""maritime_security_navigation_disruption""]"
+914,"[""port_operational_disruption""]"
+3927,"[""port_operational_disruption""]"
+809,"[""weather_disruption""]"
+627,"[""weather_disruption"", ""port_operational_disruption""]"
+5031,"[""port_operational_disruption""]"
+5211,[]
+2901,"[""port_operational_disruption""]"
+3190,[]
+847,"[""weather_disruption"", ""port_operational_disruption""]"
+1298,"[""weather_disruption""]"
+554,"[""weather_disruption"", ""port_operational_disruption""]"
+529,"[""labor_strike_disruption""]"
+3471,"[""port_operational_disruption""]"
+3151,"[""weather_disruption""]"
+4572,"[""weather_disruption"", ""port_operational_disruption""]"
+3966,[]
+2920,"[""weather_disruption""]"
+391,"[""weather_disruption""]"
+3642,"[""maritime_security_navigation_disruption""]"
+3910,[]
+4809,"[""port_operational_disruption""]"
+5445,"[""port_operational_disruption""]"
+4345,[]
+3666,"[""maritime_security_navigation_disruption""]"
+5405,"[""labor_strike_disruption""]"
+792,"[""port_operational_disruption""]"
+2200,"[""weather_disruption""]"
+2045,"[""weather_disruption""]"
+4424,"[""maritime_security_navigation_disruption""]"
+1587,"[""weather_disruption""]"
+5403,"[""port_operational_disruption""]"
+4015,"[""port_operational_disruption""]"
+4944,"[""natural_disaster""]"
+4060,"[""port_closure""]"
+432,"[""weather_disruption""]"
+3173,[]
+3231,"[""port_operational_disruption""]"
+5695,"[""labor_strike_disruption""]"
+4636,"[""weather_disruption""]"
+1722,"[""weather_disruption""]"
+623,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4620,"[""port_operational_disruption""]"
+1753,"[""labor_strike_disruption""]"
+5371,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3982,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2888,[]
+5099,"[""port_operational_disruption""]"
+5780,"[""labor_strike_disruption""]"
+5603,"[""port_operational_disruption""]"
+4933,"[""natural_disaster""]"
+5491,"[""maritime_security_navigation_disruption""]"
+5058,"[""port_operational_disruption""]"
+4805,"[""weather_disruption""]"
+1066,"[""natural_disaster""]"
+355,"[""labor_strike_disruption""]"
+4003,[]
+3665,[]
+4017,"[""port_closure""]"
+4727,"[""labor_strike_disruption""]"
+1111,[]
+2262,"[""labor_strike_disruption""]"
+1542,"[""weather_disruption"", ""port_operational_disruption""]"
+3104,"[""weather_disruption""]"
+5358,[]
+20,"[""natural_disaster""]"
+2372,"[""weather_disruption"", ""port_operational_disruption""]"
+2862,"[""weather_disruption"", ""port_operational_disruption""]"
+3258,"[""port_operational_disruption""]"
+875,"[""weather_disruption"", ""port_operational_disruption""]"
+4419,"[""weather_disruption""]"
+3389,"[""port_operational_disruption""]"
+5081,[]
+3815,"[""labor_strike_disruption""]"
+4675,"[""labor_strike_disruption""]"
+340,[]
+3499,[]
+3331,"[""port_operational_disruption""]"
+21,"[""weather_disruption""]"
+1606,[]
+2851,"[""weather_disruption"", ""port_operational_disruption""]"
+1018,"[""natural_disaster""]"
+4012,"[""weather_disruption""]"
+3039,"[""port_operational_disruption""]"
+5277,[]
+3738,[]
+726,[]
+1467,"[""labor_strike_disruption""]"
+1098,"[""port_closure""]"
+114,"[""labor_strike_disruption""]"
+1030,"[""labor_strike_disruption""]"
+1179,"[""port_operational_disruption""]"
+5069,[]
+5420,"[""weather_disruption""]"
+1251,[]
+368,"[""weather_disruption""]"
+335,"[""weather_disruption""]"
+1145,"[""labor_strike_disruption""]"
+4400,"[""port_operational_disruption""]"
+4396,"[""port_operational_disruption""]"
+489,"[""port_operational_disruption""]"
+4772,"[""maritime_security_navigation_disruption""]"
+1926,"[""port_operational_disruption""]"
+4135,"[""port_operational_disruption""]"
+4554,"[""weather_disruption""]"
+4006,[]
+1828,[]
+5694,"[""weather_disruption""]"
+1936,"[""weather_disruption""]"
+3921,[]
+1607,[]
+1345,"[""labor_strike_disruption""]"
+1540,"[""weather_disruption""]"
+1086,"[""port_closure""]"
+2854,[]
+3916,[]
+3097,[]
+108,"[""port_operational_disruption""]"
+4206,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4542,[]
+1471,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1228,"[""labor_strike_disruption""]"
+5308,"[""weather_disruption"", ""port_operational_disruption""]"
+904,"[""labor_strike_disruption""]"
+5717,"[""labor_strike_disruption""]"
+977,[]
+1758,[]
+4364,"[""natural_disaster""]"
+5388,"[""labor_strike_disruption""]"
+5184,"[""maritime_security_navigation_disruption""]"
+4382,"[""labor_strike_disruption""]"
+4601,"[""port_operational_disruption""]"
+1134,[]
+1496,"[""weather_disruption"", ""port_closure""]"
+1608,"[""port_closure""]"
+2077,"[""port_operational_disruption""]"
+4310,"[""weather_disruption""]"
+4939,"[""natural_disaster""]"
+1822,[]
+3378,"[""weather_disruption""]"
+4433,"[""weather_disruption""]"
+3984,"[""weather_disruption"", ""port_closure""]"
+2563,"[""port_operational_disruption""]"
+1895,[]
+3874,"[""labor_strike_disruption""]"
+479,[]
+5276,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2534,[]
+148,[]
+1714,[]
+4698,[]
+3706,[]
+4724,"[""weather_disruption""]"
+5697,"[""labor_strike_disruption""]"
+2603,"[""labor_strike_disruption""]"
+3703,"[""labor_strike_disruption""]"
+4830,"[""port_operational_disruption""]"
+3159,[]
+4271,[]
+4244,"[""port_operational_disruption""]"
+1376,[]
+2938,"[""port_operational_disruption""]"
+5466,"[""weather_disruption""]"
+3733,"[""maritime_security_navigation_disruption""]"
+387,"[""port_operational_disruption""]"
+4906,"[""weather_disruption""]"
+1811,"[""labor_strike_disruption""]"
+1031,"[""labor_strike_disruption""]"
+3958,"[""weather_disruption""]"
+4494,"[""weather_disruption"", ""port_operational_disruption""]"
+4506,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+494,"[""weather_disruption"", ""port_operational_disruption""]"
+1401,"[""port_operational_disruption""]"
+1597,[]
+236,"[""labor_strike_disruption""]"
+4034,[]
+4880,"[""port_operational_disruption""]"
+5504,[]
+2653,"[""labor_strike_disruption""]"
+3239,"[""port_operational_disruption""]"
+4663,"[""natural_disaster""]"
+1426,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2840,"[""labor_strike_disruption""]"
+5700,"[""weather_disruption""]"
+5715,"[""natural_disaster""]"
+1365,"[""port_operational_disruption""]"
+2031,"[""maritime_security_navigation_disruption""]"
+1591,"[""labor_strike_disruption""]"
+5136,"[""labor_strike_disruption""]"
+4102,[]
+4354,[]
+346,"[""labor_strike_disruption""]"
+4564,"[""weather_disruption"", ""port_closure""]"
+2478,"[""labor_strike_disruption""]"
+1348,[]
+2373,"[""weather_disruption"", ""port_closure""]"
+1514,"[""weather_disruption""]"
+3112,"[""weather_disruption""]"
+5139,"[""weather_disruption""]"
+5419,"[""weather_disruption""]"
+3086,[]
+3553,"[""port_closure""]"
+588,"[""weather_disruption""]"
+2910,"[""weather_disruption""]"
+4493,"[""weather_disruption"", ""port_operational_disruption""]"
+2484,"[""labor_strike_disruption""]"
+2063,"[""port_operational_disruption""]"
+4679,[]
+5645,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1243,[]
+4463,[]
+12,"[""weather_disruption""]"
+1992,"[""port_operational_disruption""]"
+4110,[]
+4201,"[""weather_disruption"", ""port_operational_disruption""]"
+4886,"[""port_operational_disruption""]"
+3057,"[""port_operational_disruption""]"
+2601,[]
+3428,"[""port_operational_disruption""]"
+3043,"[""port_operational_disruption""]"
+2145,"[""port_operational_disruption""]"
+2274,"[""weather_disruption""]"
+3130,[]
+4195,"[""weather_disruption"", ""port_operational_disruption""]"
+4521,"[""weather_disruption""]"
+4209,"[""weather_disruption"", ""port_closure""]"
+5301,"[""port_operational_disruption""]"
+5090,[]
+1418,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2782,"[""labor_strike_disruption""]"
+4511,"[""port_operational_disruption""]"
+950,[]
+2620,"[""weather_disruption""]"
+5344,"[""weather_disruption""]"
+2326,"[""weather_disruption""]"
+179,"[""port_operational_disruption""]"
+3055,"[""port_operational_disruption""]"
+2574,"[""weather_disruption"", ""natural_disaster""]"
+105,"[""port_operational_disruption""]"
+3792,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+5208,[]
+3871,[]
+1950,[]
+330,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4923,"[""labor_strike_disruption""]"
+2,[]
+4914,"[""weather_disruption""]"
+2765,"[""port_operational_disruption""]"
+3106,"[""labor_strike_disruption""]"
+3196,"[""port_operational_disruption""]"
+2479,"[""labor_strike_disruption""]"
+3607,"[""maritime_security_navigation_disruption""]"
+1902,[]
+174,"[""labor_strike_disruption""]"
+1494,"[""weather_disruption""]"
+2442,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1970,"[""port_operational_disruption"", ""port_closure"", ""labor_strike_disruption""]"
+2415,"[""weather_disruption""]"
+4160,"[""weather_disruption""]"
+1792,"[""weather_disruption""]"
+815,"[""labor_strike_disruption""]"
+3207,"[""port_operational_disruption""]"
+4694,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1785,"[""labor_strike_disruption""]"
+431,"[""port_operational_disruption""]"
+4778,"[""weather_disruption"", ""port_operational_disruption""]"
+995,[]
+304,[]
+4661,"[""port_operational_disruption""]"
+1349,"[""labor_strike_disruption""]"
+5421,"[""weather_disruption""]"
+5221,[]
+4389,"[""port_operational_disruption""]"
+1933,"[""weather_disruption""]"
+872,"[""port_operational_disruption""]"
+2698,[]
+3031,[]
+4970,[]
+4961,[]
+2084,"[""port_operational_disruption""]"
+4054,[]
+5015,"[""labor_strike_disruption""]"
+2672,"[""labor_strike_disruption""]"
+4480,"[""weather_disruption""]"
+625,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1436,"[""port_operational_disruption""]"
+2706,"[""port_operational_disruption""]"
+3600,"[""maritime_security_navigation_disruption""]"
+3453,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2342,"[""weather_disruption""]"
+2662,"[""weather_disruption"", ""port_operational_disruption""]"
+526,"[""maritime_security_navigation_disruption""]"
+5766,"[""weather_disruption""]"
+1379,"[""weather_disruption"", ""port_operational_disruption""]"
+2194,"[""port_operational_disruption""]"
+3949,"[""weather_disruption""]"
+4952,[]
+1090,"[""weather_disruption""]"
+2675,[]
+2916,"[""weather_disruption""]"
+5267,[]
+2074,"[""port_operational_disruption""]"
+4701,"[""port_operational_disruption""]"
+3810,[]
+4631,"[""weather_disruption""]"
+1609,[]
+4770,"[""labor_strike_disruption""]"
+4184,"[""weather_disruption"", ""port_closure""]"
+3770,"[""weather_disruption""]"
+4518,"[""port_closure""]"
+2114,"[""labor_strike_disruption""]"
+5287,[]
+975,"[""weather_disruption""]"
+3737,[]
+1091,"[""weather_disruption"", ""port_operational_disruption""]"
+2183,"[""weather_disruption""]"
+798,"[""labor_strike_disruption""]"
+1755,"[""port_operational_disruption""]"
+3907,"[""weather_disruption"", ""port_operational_disruption""]"
+286,"[""port_operational_disruption""]"
+3672,"[""labor_strike_disruption""]"
+2550,"[""labor_strike_disruption""]"
+27,[]
+3713,"[""weather_disruption"", ""port_closure""]"
+2053,"[""weather_disruption"", ""port_operational_disruption""]"
+5242,[]
+2750,"[""port_operational_disruption""]"
+2217,[]
+4790,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2592,"[""natural_disaster""]"
+4287,[]
+2718,"[""labor_strike_disruption""]"
+1413,[]
+4773,"[""maritime_security_navigation_disruption""]"
+5756,"[""labor_strike_disruption""]"
+5055,"[""port_operational_disruption""]"
+1082,[]
+605,[]
+4427,"[""weather_disruption"", ""port_closure""]"
+1705,"[""weather_disruption""]"
+2466,[]
+3267,"[""labor_strike_disruption""]"
+5475,"[""weather_disruption"", ""port_operational_disruption""]"
+870,[]
+998,[]
+2952,"[""labor_strike_disruption""]"
+4548,"[""labor_strike_disruption""]"
+3108,[]
+5745,"[""port_operational_disruption""]"
+4308,"[""port_closure""]"
+5417,[]
+4140,[]
+55,"[""labor_strike_disruption""]"
+4468,"[""weather_disruption""]"
+4925,"[""labor_strike_disruption""]"
+4229,"[""weather_disruption""]"
+2941,"[""port_operational_disruption"", ""port_closure""]"
+1998,"[""maritime_security_navigation_disruption""]"
+1469,"[""labor_strike_disruption""]"
+447,"[""labor_strike_disruption""]"
+801,"[""weather_disruption""]"
+2430,[]
+2464,"[""weather_disruption""]"
+3588,[]
+2781,[]
+1572,"[""labor_strike_disruption""]"
+2492,"[""labor_strike_disruption""]"
+2834,"[""port_operational_disruption""]"
+1940,[]
+4458,"[""port_operational_disruption""]"
+2891,[]
+4753,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+826,"[""port_operational_disruption""]"
+3528,"[""weather_disruption""]"
+5034,[]
+4974,"[""labor_strike_disruption""]"
+2856,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2793,"[""port_operational_disruption""]"
+5216,"[""labor_strike_disruption""]"
+5653,"[""port_operational_disruption""]"
+2122,[]
+454,"[""weather_disruption""]"
+2007,[]
+4296,[]
+4507,"[""weather_disruption""]"
+4797,"[""port_operational_disruption""]"
+818,"[""port_operational_disruption""]"
+4926,"[""labor_strike_disruption""]"
+4892,"[""port_operational_disruption""]"
+2347,"[""weather_disruption"", ""port_operational_disruption""]"
+3243,"[""port_operational_disruption""]"
+1964,"[""labor_strike_disruption""]"
+2909,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1862,"[""labor_strike_disruption""]"
+5196,[]
+4552,"[""weather_disruption""]"
+2261,"[""labor_strike_disruption""]"
+2868,"[""port_closure""]"
+2809,"[""labor_strike_disruption""]"
+1980,"[""weather_disruption""]"
+301,"[""weather_disruption"", ""labor_strike_disruption""]"
+2170,"[""port_operational_disruption"", ""port_closure""]"
+2292,"[""weather_disruption""]"
+2846,[]
+3855,"[""maritime_security_navigation_disruption""]"
+2625,"[""labor_strike_disruption""]"
+4479,"[""labor_strike_disruption""]"
+1170,"[""port_operational_disruption""]"
+4103,"[""port_operational_disruption""]"
+2861,"[""weather_disruption""]"
+5747,"[""port_operational_disruption""]"
+428,"[""weather_disruption""]"
+5345,[]
+5547,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2902,"[""labor_strike_disruption""]"
+889,[]
+874,"[""weather_disruption""]"
+1402,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4628,"[""weather_disruption""]"
+984,"[""weather_disruption""]"
+4817,"[""port_operational_disruption""]"
+5200,[]
+5689,"[""labor_strike_disruption""]"
+1799,"[""labor_strike_disruption""]"
+5008,"[""weather_disruption""]"
+3831,"[""port_operational_disruption""]"
+882,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3091,"[""labor_strike_disruption""]"
+5336,"[""port_operational_disruption""]"
+2044,[]
+2497,"[""labor_strike_disruption""]"
+453,"[""weather_disruption""]"
+3219,"[""port_operational_disruption""]"
+5404,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5087,"[""weather_disruption""]"
+1549,"[""port_closure""]"
+808,"[""weather_disruption""]"
+3222,"[""port_operational_disruption"", ""port_closure""]"
+953,"[""weather_disruption""]"
+5462,"[""weather_disruption"", ""port_operational_disruption""]"
+470,"[""port_operational_disruption""]"
+2010,"[""weather_disruption""]"
+1190,"[""port_operational_disruption""]"
+5680,"[""weather_disruption""]"
+4131,[]
+4878,"[""port_operational_disruption""]"
+5159,"[""labor_strike_disruption""]"
+2759,"[""port_operational_disruption""]"
+3894,[]
+4543,"[""port_operational_disruption""]"
+191,[]
+1628,"[""weather_disruption""]"
+2619,"[""natural_disaster""]"
+1850,"[""weather_disruption"", ""port_operational_disruption""]"
+1043,"[""natural_disaster""]"
+1140,[]
+3178,"[""maritime_security_navigation_disruption""]"
+5616,"[""labor_strike_disruption""]"
+1556,"[""weather_disruption""]"
+4002,"[""weather_disruption""]"
+1915,"[""labor_strike_disruption""]"
+5637,"[""weather_disruption""]"
+2942,"[""port_operational_disruption""]"
+700,[]
+707,"[""labor_strike_disruption""]"
+637,"[""natural_disaster""]"
+2866,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+973,"[""labor_strike_disruption""]"
+4362,"[""natural_disaster""]"
+568,"[""weather_disruption""]"
+4430,"[""weather_disruption""]"
+1414,[]
+5431,[]
+4246,"[""labor_strike_disruption""]"
+5542,"[""weather_disruption"", ""port_operational_disruption""]"
+4288,[]
+5778,"[""labor_strike_disruption""]"
+2001,"[""maritime_security_navigation_disruption""]"
+2768,"[""port_operational_disruption""]"
+49,"[""maritime_security_navigation_disruption""]"
+5459,"[""weather_disruption"", ""port_operational_disruption""]"
+376,"[""weather_disruption""]"
+162,[]
+1593,"[""port_operational_disruption""]"
+1492,"[""natural_disaster""]"
+3152,[]
+4179,"[""weather_disruption""]"
+1999,"[""weather_disruption""]"
+1898,"[""labor_strike_disruption""]"
+4987,"[""port_operational_disruption""]"
+1801,"[""weather_disruption""]"
+3654,"[""labor_strike_disruption""]"
+3900,[]
+4088,[]
+5365,"[""port_operational_disruption""]"
+1682,[]
+5391,"[""labor_strike_disruption""]"
+3122,"[""port_operational_disruption""]"
+628,"[""weather_disruption"", ""port_operational_disruption""]"
+3412,[]
+4095,"[""weather_disruption""]"
+4513,"[""weather_disruption""]"
+3344,"[""port_operational_disruption""]"
+3662,[]
+4659,"[""port_operational_disruption""]"
+3631,"[""weather_disruption""]"
+5053,"[""labor_strike_disruption""]"
+2091,[]
+5363,"[""port_operational_disruption""]"
+4820,"[""port_operational_disruption""]"
+4435,"[""labor_strike_disruption""]"
+550,"[""labor_strike_disruption""]"
+3463,"[""port_operational_disruption""]"
+403,"[""maritime_security_navigation_disruption""]"
+2913,"[""weather_disruption"", ""port_operational_disruption""]"
+4499,"[""port_operational_disruption""]"
+341,"[""labor_strike_disruption""]"
+2369,"[""weather_disruption"", ""port_operational_disruption""]"
+194,[]
+5721,"[""port_operational_disruption""]"
+1338,[]
+2889,"[""maritime_security_navigation_disruption""]"
+2023,[]
+1441,[]
+4545,"[""weather_disruption""]"
+3959,[]
+2721,"[""labor_strike_disruption""]"
+1104,"[""port_operational_disruption""]"
+3720,"[""port_operational_disruption"", ""port_closure""]"
+2054,"[""port_operational_disruption""]"
+123,"[""weather_disruption""]"
+4908,"[""weather_disruption""]"
+2814,"[""port_operational_disruption""]"
+1206,"[""port_operational_disruption"", ""port_closure""]"
+4153,[]
+3811,[]
+702,"[""labor_strike_disruption""]"
+3323,[]
+4558,"[""weather_disruption""]"
+1994,"[""port_operational_disruption""]"
+2283,"[""labor_strike_disruption""]"
+4640,"[""port_operational_disruption""]"
+649,"[""port_operational_disruption""]"
+4833,"[""weather_disruption""]"
+3204,"[""port_operational_disruption""]"
+3957,[]
+664,[]
+1748,"[""labor_strike_disruption""]"
+4649,"[""port_operational_disruption""]"
+2106,"[""weather_disruption""]"
+5017,"[""labor_strike_disruption""]"
+3038,"[""port_operational_disruption"", ""port_closure""]"
+4198,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+646,[]
+2332,"[""weather_disruption""]"
+116,"[""labor_strike_disruption""]"
+1856,"[""labor_strike_disruption""]"
+4950,"[""natural_disaster""]"
+1774,[]
+865,[]
+749,"[""weather_disruption""]"
+5443,"[""port_operational_disruption""]"
+3772,"[""weather_disruption""]"
+1943,[]
+2682,"[""weather_disruption"", ""port_operational_disruption""]"
+1766,"[""port_operational_disruption""]"
+4031,"[""weather_disruption""]"
+4690,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3835,"[""port_operational_disruption""]"
+181,"[""port_operational_disruption""]"
+367,"[""weather_disruption""]"
+1736,[]
+3611,[]
+1114,"[""labor_strike_disruption""]"
+31,"[""weather_disruption""]"
+4258,"[""maritime_security_navigation_disruption""]"
+566,"[""labor_strike_disruption""]"
+2597,"[""labor_strike_disruption""]"
+3238,"[""port_operational_disruption""]"
+4118,"[""weather_disruption""]"
+4193,"[""weather_disruption""]"
+4597,"[""port_operational_disruption""]"
+3408,[]
+5472,"[""weather_disruption"", ""port_operational_disruption""]"
+3685,"[""weather_disruption""]"
+3863,[]
+2313,"[""weather_disruption""]"
+3620,"[""port_operational_disruption""]"
+2366,"[""weather_disruption"", ""port_operational_disruption""]"
+1685,"[""labor_strike_disruption""]"
+3197,"[""port_operational_disruption""]"
+5663,[]
+5727,"[""port_operational_disruption""]"
+175,"[""port_operational_disruption""]"
+1886,"[""weather_disruption""]"
+5755,[]
+3185,"[""labor_strike_disruption""]"
+4207,"[""weather_disruption"", ""port_closure""]"
+3857,[]
+4222,"[""weather_disruption"", ""port_operational_disruption""]"
+4780,"[""port_operational_disruption""]"
+4456,"[""weather_disruption""]"
+3576,"[""maritime_security_navigation_disruption""]"
+1920,"[""labor_strike_disruption""]"
+5137,"[""weather_disruption""]"
+2377,[]
+1674,[]
+3925,"[""port_operational_disruption""]"
+2067,[]
+971,"[""labor_strike_disruption""]"
+3661,[]
+1770,"[""port_operational_disruption""]"
+4709,"[""labor_strike_disruption""]"
+4938,"[""port_operational_disruption""]"
+2002,"[""maritime_security_navigation_disruption""]"
+3279,"[""weather_disruption"", ""port_closure""]"
+1944,[]
+5330,"[""weather_disruption""]"
+3348,"[""port_operational_disruption""]"
+2723,"[""port_operational_disruption""]"
+4562,"[""weather_disruption""]"
+2878,"[""weather_disruption"", ""port_operational_disruption""]"
+3157,"[""maritime_security_navigation_disruption""]"
+1894,[]
+3994,"[""port_operational_disruption"", ""port_closure""]"
+4399,"[""port_operational_disruption""]"
+5595,"[""port_operational_disruption""]"
+2025,[]
+5109,[]
+4256,[]
+5359,[]
+2860,[]
+2202,"[""weather_disruption"", ""port_operational_disruption""]"
+3232,"[""port_operational_disruption""]"
+1630,"[""weather_disruption"", ""port_operational_disruption""]"
+3962,[]
+5764,"[""weather_disruption"", ""port_operational_disruption""]"
+3952,[]
+543,[]
+4755,"[""port_operational_disruption""]"
+735,[]
+5437,"[""labor_strike_disruption""]"
+886,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2932,"[""port_operational_disruption""]"
+375,"[""weather_disruption""]"
+2336,"[""weather_disruption""]"
+913,"[""labor_strike_disruption""]"
+4664,"[""port_operational_disruption""]"
+2320,"[""weather_disruption"", ""port_operational_disruption""]"
+5321,"[""maritime_security_navigation_disruption""]"
+4641,"[""port_operational_disruption""]"
+410,[]
+1382,"[""port_operational_disruption""]"
+3557,"[""labor_strike_disruption""]"
+5370,"[""port_operational_disruption""]"
+3101,"[""weather_disruption""]"
+4451,"[""weather_disruption"", ""natural_disaster""]"
+1928,"[""weather_disruption""]"
+675,[]
+4719,"[""weather_disruption""]"
+2310,"[""labor_strike_disruption""]"
+825,"[""weather_disruption"", ""port_operational_disruption""]"
+3716,"[""port_operational_disruption"", ""port_closure""]"
+2794,"[""port_operational_disruption""]"
+1381,"[""port_operational_disruption""]"
+3852,[]
+609,"[""weather_disruption"", ""port_operational_disruption""]"
+1109,"[""labor_strike_disruption""]"
+40,"[""weather_disruption""]"
+1694,"[""maritime_security_navigation_disruption""]"
+36,"[""weather_disruption""]"
+4470,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1234,"[""port_operational_disruption""]"
+5409,"[""labor_strike_disruption""]"
+4729,"[""weather_disruption"", ""port_operational_disruption""]"
+508,"[""labor_strike_disruption""]"
+1743,"[""labor_strike_disruption""]"
+1763,[]
+3930,"[""port_operational_disruption""]"
+487,"[""port_operational_disruption""]"
+3007,"[""weather_disruption""]"
+3115,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+806,"[""weather_disruption""]"
+4514,"[""weather_disruption""]"
+3581,[]
+3541,[]
+3170,[]
+2786,"[""port_operational_disruption""]"
+4622,"[""port_operational_disruption""]"
+2166,"[""weather_disruption""]"
+2642,"[""port_operational_disruption""]"
+54,"[""labor_strike_disruption""]"
+3116,"[""labor_strike_disruption""]"
+2288,"[""labor_strike_disruption""]"
+296,"[""weather_disruption""]"
+1874,"[""port_operational_disruption""]"
+4289,[]
+5767,"[""weather_disruption""]"
+4899,"[""port_operational_disruption""]"
+3579,[]
+5699,"[""weather_disruption"", ""natural_disaster""]"
+690,"[""labor_strike_disruption""]"
+4183,"[""weather_disruption"", ""port_operational_disruption""]"
+1055,"[""natural_disaster""]"
+2066,"[""weather_disruption""]"
+2757,"[""port_operational_disruption""]"
+4826,"[""port_operational_disruption""]"
+4177,"[""weather_disruption""]"
+3200,"[""port_operational_disruption"", ""port_closure""]"
+850,"[""weather_disruption""]"
+1664,"[""maritime_security_navigation_disruption""]"
+1634,"[""weather_disruption"", ""port_operational_disruption""]"
+1718,"[""weather_disruption""]"
+1819,[]
+4561,"[""weather_disruption"", ""port_operational_disruption""]"
+4613,"[""weather_disruption""]"
+285,"[""weather_disruption""]"
+5183,"[""weather_disruption""]"
+4491,[]
+4590,"[""weather_disruption""]"
+2009,"[""weather_disruption""]"
+2580,"[""weather_disruption""]"
+2110,"[""weather_disruption""]"
+563,"[""weather_disruption""]"
+1351,[]
+4462,"[""labor_strike_disruption""]"
+5573,"[""natural_disaster""]"
+3422,[]
+1693,"[""labor_strike_disruption""]"
+4519,[]
+4540,"[""weather_disruption""]"
+1787,[]
+3768,"[""weather_disruption""]"
+991,"[""labor_strike_disruption""]"
+1602,"[""weather_disruption"", ""port_operational_disruption""]"
+1119,"[""labor_strike_disruption""]"
+3209,"[""port_operational_disruption""]"
+5032,"[""port_operational_disruption""]"
+890,"[""weather_disruption""]"
+639,"[""weather_disruption""]"
+2755,"[""port_operational_disruption""]"
+1735,[]
+5077,[]
+3574,"[""maritime_security_navigation_disruption""]"
+774,[]
+2289,"[""weather_disruption""]"
+4200,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4573,[]
+1320,"[""labor_strike_disruption""]"
+1200,"[""port_operational_disruption""]"
+4860,"[""labor_strike_disruption""]"
+2852,"[""weather_disruption"", ""port_operational_disruption""]"
+3446,[]
+1399,"[""port_operational_disruption""]"
+3211,"[""port_operational_disruption""]"
+3069,"[""weather_disruption""]"
+1165,"[""port_operational_disruption""]"
+2788,"[""weather_disruption"", ""port_operational_disruption""]"
+997,[]
+2035,"[""port_closure""]"
+4253,[]
+1941,"[""weather_disruption""]"
+326,[]
+5693,"[""weather_disruption""]"
+1552,"[""labor_strike_disruption""]"
+4834,"[""weather_disruption"", ""port_operational_disruption""]"
+2593,"[""natural_disaster""]"
+5386,[]
+4922,"[""labor_strike_disruption""]"
+3998,"[""weather_disruption""]"
+3423,"[""port_operational_disruption""]"
+3993,[]
+1014,[]
+4376,"[""natural_disaster""]"
+1681,[]
+4502,"[""weather_disruption""]"
+2280,[]
+150,"[""weather_disruption""]"
+1147,"[""labor_strike_disruption""]"
+1710,"[""port_operational_disruption""]"
+3228,"[""weather_disruption"", ""port_operational_disruption""]"
+4555,"[""labor_strike_disruption""]"
+2093,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3847,[]
+2526,"[""labor_strike_disruption""]"
+4619,[]
+5725,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5464,"[""weather_disruption"", ""port_operational_disruption""]"
+2630,"[""labor_strike_disruption""]"
+4485,"[""weather_disruption"", ""port_closure""]"
+523,"[""maritime_security_navigation_disruption""]"
+3591,[]
+3798,"[""port_closure""]"
+493,"[""weather_disruption""]"
+4896,"[""port_operational_disruption""]"
+3627,"[""weather_disruption"", ""port_closure""]"
+4635,"[""weather_disruption"", ""port_operational_disruption""]"
+4750,"[""labor_strike_disruption""]"
+93,"[""labor_strike_disruption""]"
+1953,[]
+284,"[""weather_disruption"", ""port_operational_disruption""]"
+3053,"[""port_operational_disruption""]"
+1124,"[""labor_strike_disruption""]"
+4032,"[""port_operational_disruption""]"
+705,"[""port_operational_disruption""]"
+2047,"[""port_operational_disruption""]"
+1430,"[""weather_disruption""]"
+4220,"[""weather_disruption"", ""port_operational_disruption""]"
+4629,"[""weather_disruption""]"
+1952,[]
+4155,"[""port_operational_disruption""]"
+3150,"[""weather_disruption""]"
+121,[]
+2530,[]
+371,"[""port_operational_disruption""]"
+4116,"[""weather_disruption""]"
+682,"[""weather_disruption""]"
+2921,"[""labor_strike_disruption""]"
+1962,[]
+361,"[""labor_strike_disruption""]"
+1013,"[""natural_disaster""]"
+490,"[""weather_disruption"", ""port_operational_disruption""]"
+3233,"[""port_operational_disruption""]"
+509,"[""weather_disruption""]"
+4538,"[""port_closure""]"
+4330,[]
+1042,"[""natural_disaster""]"
+5369,"[""port_operational_disruption""]"
+567,"[""weather_disruption""]"
+579,"[""labor_strike_disruption""]"
+556,"[""weather_disruption""]"
+4794,"[""weather_disruption""]"
+1133,"[""labor_strike_disruption""]"
+2040,"[""weather_disruption""]"
+4879,"[""port_operational_disruption""]"
+2667,"[""weather_disruption""]"
+4488,[]
+207,"[""port_closure""]"
+1882,"[""labor_strike_disruption""]"
+1069,[]
+1660,"[""weather_disruption""]"
+4665,"[""weather_disruption""]"
+5540,"[""weather_disruption""]"
+1092,[]
+2911,"[""weather_disruption"", ""port_operational_disruption""]"
+1829,"[""labor_strike_disruption""]"
+3194,"[""port_operational_disruption""]"
+1174,"[""port_operational_disruption""]"
+3677,"[""weather_disruption""]"
+2148,"[""port_operational_disruption""]"
+2923,"[""labor_strike_disruption""]"
+62,"[""labor_strike_disruption""]"
+4796,"[""port_operational_disruption""]"
+593,"[""weather_disruption""]"
+4255,[]
+3928,"[""port_operational_disruption""]"
+5273,"[""labor_strike_disruption""]"
+3167,"[""port_operational_disruption""]"
+2716,"[""labor_strike_disruption""]"
+5161,[]
+5690,"[""port_operational_disruption""]"
+2519,"[""labor_strike_disruption""]"
+1561,"[""weather_disruption""]"
+381,"[""labor_strike_disruption""]"
+2993,[]
+4586,"[""weather_disruption""]"
+4170,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3753,[]
+2359,"[""weather_disruption"", ""port_operational_disruption""]"
+5364,"[""weather_disruption"", ""port_closure""]"
+3024,"[""port_operational_disruption""]"
+2064,"[""port_operational_disruption""]"
+1513,"[""weather_disruption"", ""port_operational_disruption""]"
+3596,[]
+5290,"[""weather_disruption""]"
+5440,[]
+2206,"[""weather_disruption"", ""port_operational_disruption""]"
+1485,"[""weather_disruption""]"
+5662,"[""weather_disruption""]"
+5548,[]
+5337,[]
+1172,"[""port_operational_disruption""]"
+1670,"[""labor_strike_disruption""]"
+4410,"[""labor_strike_disruption""]"
+946,"[""weather_disruption""]"
+3461,"[""weather_disruption""]"
+160,"[""labor_strike_disruption""]"
+3214,"[""port_operational_disruption""]"
+840,"[""port_operational_disruption""]"
+2290,[]
+4650,"[""labor_strike_disruption""]"
+5538,"[""labor_strike_disruption""]"
+4425,"[""port_operational_disruption""]"
+413,[]
+983,"[""port_operational_disruption""]"
+5730,"[""weather_disruption""]"
+3710,"[""port_operational_disruption""]"
+2222,[]
+1037,"[""natural_disaster""]"
+3289,[]
+1635,[]
+211,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3848,"[""labor_strike_disruption""]"
+4949,"[""natural_disaster""]"
+1183,"[""weather_disruption"", ""port_operational_disruption""]"
+1455,"[""port_operational_disruption""]"
+2447,[]
+5281,[]
+773,"[""labor_strike_disruption""]"
+72,"[""weather_disruption""]"
+590,"[""weather_disruption""]"
+788,"[""labor_strike_disruption""]"
+3023,[]
+1460,"[""port_operational_disruption""]"
+1398,"[""port_operational_disruption""]"
+2380,"[""weather_disruption""]"
+1734,"[""weather_disruption""]"
+4779,"[""port_operational_disruption""]"
+2358,"[""weather_disruption""]"
+4056,"[""weather_disruption""]"
+3110,"[""weather_disruption""]"
+1706,[]
+2161,[]
+1429,"[""weather_disruption""]"
+980,"[""port_operational_disruption""]"
+4149,"[""weather_disruption""]"
+535,[]
+3028,"[""port_operational_disruption""]"
+901,"[""weather_disruption""]"
+2572,"[""weather_disruption""]"
+233,[]
+1457,"[""port_closure""]"
+4769,"[""port_operational_disruption""]"
+2711,"[""port_operational_disruption""]"
+3948,"[""weather_disruption""]"
+3398,[]
+1906,"[""labor_strike_disruption""]"
+2276,"[""labor_strike_disruption""]"
+436,[]
+3060,"[""port_operational_disruption""]"
+2641,"[""maritime_security_navigation_disruption""]"
+5771,"[""weather_disruption""]"
+5455,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+5223,[]
+887,"[""port_operational_disruption""]"
+4536,"[""port_operational_disruption""]"
+1392,"[""weather_disruption"", ""port_operational_disruption""]"
+1782,"[""labor_strike_disruption""]"
+3103,"[""weather_disruption""]"
+146,[]
+3727,[]
+42,[]
+5560,"[""labor_strike_disruption""]"
+3146,"[""labor_strike_disruption""]"
+11,"[""natural_disaster""]"
+61,[]
+5497,[]
+1184,"[""port_operational_disruption""]"
+1580,"[""weather_disruption""]"
+5192,[]
+3712,[]
+4174,"[""weather_disruption""]"
+1385,"[""port_operational_disruption""]"
+2767,"[""port_operational_disruption""]"
+776,"[""labor_strike_disruption""]"
+3341,"[""port_operational_disruption""]"
+5565,"[""natural_disaster""]"
+3960,[]
+3396,"[""port_operational_disruption""]"
+1491,[]
+3970,[]
+2599,"[""labor_strike_disruption""]"
+2808,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1805,"[""weather_disruption"", ""port_operational_disruption""]"
+4202,"[""weather_disruption""]"
+1715,"[""labor_strike_disruption""]"
+5525,[]
+1551,[]
+2817,"[""labor_strike_disruption""]"
+2505,[]
+3301,[]
+4815,"[""maritime_security_navigation_disruption""]"
+2260,[]
+1375,"[""labor_strike_disruption""]"
+3473,[]
+2440,"[""labor_strike_disruption""]"
+299,"[""weather_disruption""]"
+5486,"[""maritime_security_navigation_disruption""]"
+1548,"[""weather_disruption"", ""port_operational_disruption""]"
+2105,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2770,"[""port_operational_disruption""]"
+3562,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2687,"[""weather_disruption"", ""port_operational_disruption""]"
+2752,"[""port_operational_disruption""]"
+5523,[]
+4215,"[""weather_disruption"", ""port_operational_disruption""]"
+2726,[]
+5489,"[""maritime_security_navigation_disruption""]"
+3220,"[""port_operational_disruption""]"
+1062,[]
+5568,"[""natural_disaster""]"
+295,"[""weather_disruption""]"
+2638,"[""weather_disruption""]"
+5176,"[""labor_strike_disruption""]"
+5554,"[""weather_disruption""]"
+692,"[""labor_strike_disruption""]"
+2863,[]
+2557,"[""labor_strike_disruption""]"
+4018,"[""port_operational_disruption""]"
+3262,"[""port_operational_disruption""]"
+838,"[""weather_disruption""]"
+4934,[]
+5476,"[""weather_disruption"", ""labor_strike_disruption""]"
+3033,"[""port_operational_disruption""]"
+5029,"[""port_operational_disruption""]"
+1935,"[""weather_disruption""]"
+272,[]
+4745,"[""weather_disruption""]"
+858,"[""port_operational_disruption""]"
+934,"[""natural_disaster""]"
+3525,"[""labor_strike_disruption""]"
+892,"[""port_operational_disruption""]"
+1186,"[""port_operational_disruption""]"
+3873,[]
+5577,"[""natural_disaster""]"
+5463,"[""weather_disruption"", ""port_operational_disruption""]"
+5389,"[""port_operational_disruption""]"
+4941,"[""natural_disaster""]"
+3742,[]
+3415,"[""weather_disruption""]"
+1476,"[""weather_disruption"", ""port_operational_disruption""]"
+475,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+394,"[""port_operational_disruption""]"
+2383,"[""weather_disruption""]"
+929,"[""weather_disruption"", ""port_closure""]"
+2195,"[""weather_disruption""]"
+3940,[]
+1793,"[""weather_disruption""]"
+4225,[]
+2875,"[""weather_disruption""]"
+402,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2894,"[""natural_disaster""]"
+2864,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1946,"[""weather_disruption""]"
+3015,[]
+3221,"[""port_operational_disruption"", ""port_closure""]"
+1529,[]
+3127,"[""labor_strike_disruption""]"
+3817,"[""labor_strike_disruption""]"
+2905,"[""labor_strike_disruption""]"
+2934,"[""port_operational_disruption""]"
+4673,"[""weather_disruption""]"
+1797,"[""port_closure""]"
+1213,"[""weather_disruption"", ""port_operational_disruption""]"
+3929,"[""port_operational_disruption""]"
+4680,"[""weather_disruption""]"
+2528,"[""labor_strike_disruption""]"
+2884,"[""weather_disruption""]"
+4523,[]
+4352,"[""labor_strike_disruption""]"
+4274,[]
+5361,"[""weather_disruption""]"
+3164,"[""labor_strike_disruption""]"
+3592,[]
+3643,"[""weather_disruption"", ""maritime_security_navigation_disruption""]"
+1991,"[""port_operational_disruption""]"
+4732,"[""weather_disruption""]"
+1215,"[""weather_disruption"", ""port_operational_disruption""]"
+65,"[""weather_disruption""]"
+5673,"[""weather_disruption"", ""natural_disaster""]"
+5681,"[""labor_strike_disruption""]"
+1006,[]
+908,"[""weather_disruption""]"
+311,"[""labor_strike_disruption""]"
+4707,"[""port_operational_disruption""]"
+5470,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3617,[]
+1876,[]
+2364,"[""weather_disruption"", ""port_operational_disruption""]"
+2610,"[""labor_strike_disruption""]"
+2783,"[""port_operational_disruption""]"
+1316,[]
+1786,[]
+2588,"[""natural_disaster""]"
+4508,"[""weather_disruption""]"
+2829,"[""labor_strike_disruption""]"
+1112,[]
+1581,"[""labor_strike_disruption""]"
+438,"[""weather_disruption""]"
+4783,"[""weather_disruption""]"
+1211,"[""port_operational_disruption""]"
+3604,"[""maritime_security_navigation_disruption""]"
+3045,"[""port_operational_disruption""]"
+4216,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2823,"[""weather_disruption""]"
+5316,"[""weather_disruption""]"
+4120,"[""weather_disruption""]"
+4043,"[""labor_strike_disruption""]"
+3785,"[""labor_strike_disruption""]"
+1157,"[""weather_disruption""]"
+1204,"[""weather_disruption""]"
+3775,[]
+5609,[]
+3978,"[""weather_disruption""]"
+3632,"[""weather_disruption"", ""port_operational_disruption""]"
+1806,[]
+2069,"[""weather_disruption"", ""port_closure""]"
+5251,"[""labor_strike_disruption""]"
+4453,[]
+1108,"[""labor_strike_disruption""]"
+4782,"[""labor_strike_disruption""]"
+3416,"[""port_closure""]"
+3455,[]
+2275,"[""labor_strike_disruption""]"
+4611,"[""labor_strike_disruption""]"
+2713,"[""port_operational_disruption""]"
+4515,"[""port_operational_disruption""]"
+3876,"[""weather_disruption""]"
+4484,"[""port_operational_disruption""]"
+2539,"[""weather_disruption""]"
+4645,"[""port_operational_disruption""]"
+1676,"[""labor_strike_disruption""]"
+5373,[]
+5544,[]
+4090,"[""labor_strike_disruption""]"
+827,"[""weather_disruption"", ""port_operational_disruption""]"
+603,"[""labor_strike_disruption""]"
+1662,[]
+3284,"[""labor_strike_disruption""]"
+2381,"[""labor_strike_disruption""]"
+3787,"[""port_operational_disruption""]"
+1019,"[""weather_disruption""]"
+4627,"[""port_operational_disruption""]"
+1369,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1845,"[""port_operational_disruption""]"
+586,[]
+1032,"[""natural_disaster""]"
+3089,[]
+80,"[""weather_disruption"", ""port_operational_disruption""]"
+1900,"[""weather_disruption"", ""port_closure""]"
+3938,"[""port_operational_disruption""]"
+3618,"[""port_operational_disruption""]"
+2329,"[""weather_disruption"", ""port_operational_disruption""]"
+2219,[]
+3099,"[""weather_disruption""]"
+5556,"[""weather_disruption""]"
+2561,[]
+4637,"[""weather_disruption""]"
+4011,"[""weather_disruption""]"
+3047,"[""port_operational_disruption""]"
+572,"[""port_operational_disruption""]"
+1571,[]
+4522,"[""weather_disruption""]"
+3903,"[""port_operational_disruption""]"
+2186,[]
+3450,"[""port_operational_disruption""]"
+1269,"[""labor_strike_disruption""]"
+595,[]
+4122,"[""weather_disruption""]"
+4738,"[""labor_strike_disruption""]"
+37,[]
+1613,"[""weather_disruption""]"
+4275,[]
+5048,"[""port_operational_disruption""]"
+797,"[""labor_strike_disruption""]"
+5682,"[""weather_disruption""]"
+5765,"[""port_operational_disruption""]"
+142,[]
+4510,"[""weather_disruption""]"
+1378,"[""port_operational_disruption""]"
+2192,"[""port_operational_disruption"", ""port_closure""]"
+5642,[]
+772,"[""labor_strike_disruption""]"
+3745,[]
+1956,"[""labor_strike_disruption""]"
+757,"[""weather_disruption"", ""port_operational_disruption""]"
+1199,"[""port_operational_disruption""]"
+2371,"[""weather_disruption""]"
+2270,[]
+2732,"[""port_operational_disruption""]"
+2554,"[""labor_strike_disruption""]"
+2443,"[""port_operational_disruption""]"
+662,"[""labor_strike_disruption""]"
+3180,"[""maritime_security_navigation_disruption""]"
+4267,[]
+1028,"[""labor_strike_disruption""]"
+4196,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4391,"[""port_operational_disruption""]"
+5582,"[""natural_disaster""]"
+3111,"[""weather_disruption""]"
+4115,"[""weather_disruption""]"
+5678,"[""weather_disruption""]"
+4825,"[""port_operational_disruption""]"
+2634,"[""weather_disruption""]"
+4392,"[""port_operational_disruption""]"
+4082,"[""port_operational_disruption""]"
+1885,"[""labor_strike_disruption""]"
+5677,"[""weather_disruption""]"
+3918,[]
+2900,"[""weather_disruption""]"
+3628,"[""weather_disruption"", ""port_closure""]"
+283,"[""weather_disruption"", ""port_operational_disruption""]"
+5604,[]
+5182,"[""maritime_security_navigation_disruption""]"
+4105,"[""port_operational_disruption""]"
+5046,[]
+3313,[]
+5175,"[""port_operational_disruption""]"
+2182,"[""weather_disruption""]"
+2602,"[""weather_disruption""]"
+5268,[]
+155,"[""weather_disruption""]"
+1123,"[""labor_strike_disruption""]"
+2604,"[""weather_disruption""]"
+3334,[]
+2541,"[""weather_disruption""]"
+1663,"[""port_closure"", ""maritime_security_navigation_disruption""]"
+5564,"[""natural_disaster""]"
+2688,"[""port_operational_disruption""]"
+166,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4907,"[""weather_disruption""]"
+3364,[]
+5138,"[""weather_disruption"", ""port_operational_disruption""]"
+4008,[]
+4567,"[""labor_strike_disruption""]"
+2099,[]
+2886,"[""weather_disruption"", ""port_closure""]"
+2822,"[""weather_disruption"", ""port_operational_disruption""]"
+2418,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+5247,[]
+4887,"[""port_operational_disruption""]"
+469,[]
+807,"[""weather_disruption""]"
+4014,"[""weather_disruption""]"
+778,"[""weather_disruption""]"
+1245,"[""maritime_security_navigation_disruption""]"
+3667,[]
+5435,"[""port_operational_disruption""]"
+3648,[]
+1893,"[""port_operational_disruption""]"
+3601,"[""maritime_security_navigation_disruption""]"
+4918,[]
+2065,"[""port_operational_disruption""]"
+1884,"[""labor_strike_disruption""]"
+4372,"[""natural_disaster""]"
+1759,[]
+2524,"[""labor_strike_disruption""]"
+3728,[]
+4845,"[""weather_disruption""]"
+309,[]
+5303,[]
+785,"[""labor_strike_disruption""]"
+440,[]
+107,"[""port_operational_disruption""]"
+591,"[""labor_strike_disruption""]"
+1843,"[""port_operational_disruption""]"
+1701,[]
+3919,[]
+5724,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3177,[]
+3689,"[""labor_strike_disruption""]"
+614,"[""weather_disruption""]"
+3260,"[""port_operational_disruption""]"
+863,"[""natural_disaster"", ""labor_strike_disruption""]"
+3649,[]
+83,"[""weather_disruption""]"
+1036,"[""natural_disaster""]"
+748,"[""weather_disruption""]"
+2209,"[""weather_disruption"", ""port_operational_disruption""]"
+397,[]
+2994,"[""labor_strike_disruption""]"
+1238,"[""port_operational_disruption""]"
+693,"[""labor_strike_disruption""]"
+1380,"[""port_operational_disruption""]"
+3605,"[""maritime_security_navigation_disruption""]"
+2000,"[""maritime_security_navigation_disruption""]"
+4813,"[""weather_disruption""]"
+4083,"[""port_operational_disruption""]"
+5762,"[""weather_disruption"", ""port_operational_disruption""]"
+4989,"[""port_operational_disruption""]"
+3612,[]
+2670,"[""weather_disruption"", ""port_closure""]"
+3411,[]
+1252,"[""labor_strike_disruption""]"
+3908,[]
+2470,"[""port_operational_disruption""]"
+5465,"[""weather_disruption"", ""port_operational_disruption""]"
+3895,[]
+4448,"[""maritime_security_navigation_disruption""]"
+581,"[""weather_disruption""]"
+481,"[""weather_disruption""]"
+5027,"[""labor_strike_disruption""]"
+1673,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+598,"[""labor_strike_disruption""]"
+227,"[""labor_strike_disruption""]"
+5433,"[""labor_strike_disruption""]"
+5234,"[""labor_strike_disruption""]"
+2816,"[""weather_disruption""]"
+597,"[""weather_disruption""]"
+4156,"[""weather_disruption""]"
+3834,"[""port_operational_disruption""]"
+3257,"[""port_operational_disruption""]"
+2849,"[""weather_disruption"", ""port_operational_disruption""]"
+3935,[]
+2827,"[""weather_disruption"", ""port_operational_disruption""]"
+3836,[]
+4557,"[""weather_disruption""]"
+4322,"[""weather_disruption""]"
+282,"[""weather_disruption"", ""port_operational_disruption""]"
+2855,"[""weather_disruption""]"
+4656,"[""weather_disruption""]"
+5482,[]
+5559,[]
+294,"[""weather_disruption""]"
+4884,"[""port_operational_disruption""]"
+2117,"[""port_operational_disruption""]"
+2813,"[""port_operational_disruption""]"
+1156,"[""labor_strike_disruption""]"
+841,"[""weather_disruption"", ""port_operational_disruption""]"
+344,"[""weather_disruption""]"
+1675,[]
+4875,"[""port_operational_disruption""]"
+996,"[""labor_strike_disruption""]"
+1925,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3572,"[""labor_strike_disruption""]"
+5563,"[""natural_disaster""]"
+2428,[]
+2780,"[""weather_disruption"", ""port_operational_disruption""]"
+2374,"[""weather_disruption"", ""port_operational_disruption""]"
+4211,"[""weather_disruption"", ""port_closure""]"
+2265,[]
+2279,"[""labor_strike_disruption""]"
+1788,[]
+1218,[]
+2341,"[""weather_disruption""]"
+752,"[""weather_disruption""]"
+1578,[]
+3336,"[""labor_strike_disruption""]"
+153,[]
+5686,"[""weather_disruption""]"
+5313,"[""port_operational_disruption""]"
+2839,"[""port_operational_disruption""]"
+2172,[]
+4023,"[""port_operational_disruption""]"
+4477,"[""weather_disruption""]"
+3788,"[""port_operational_disruption""]"
+4005,[]
+3548,"[""labor_strike_disruption""]"
+445,"[""weather_disruption""]"
+2581,"[""weather_disruption""]"
+899,"[""weather_disruption"", ""port_operational_disruption""]"
+5446,"[""port_operational_disruption"", ""port_closure""]"
+3932,[]
+3678,"[""labor_strike_disruption""]"
+452,"[""weather_disruption""]"
+2422,"[""weather_disruption""]"
+3158,"[""weather_disruption"", ""port_closure""]"
+1603,"[""weather_disruption""]"
+1713,[]
+5239,"[""port_operational_disruption""]"
+981,"[""labor_strike_disruption""]"
+3609,[]
+4221,"[""weather_disruption""]"
+4486,"[""weather_disruption"", ""port_operational_disruption""]"
+483,"[""weather_disruption"", ""port_operational_disruption""]"
+4893,"[""port_operational_disruption""]"
+1085,[]
+5748,"[""port_operational_disruption""]"
+1912,"[""maritime_security_navigation_disruption""]"
+3072,"[""weather_disruption""]"
+3729,"[""weather_disruption""]"
+4154,"[""port_operational_disruption""]"
+4685,[]
+4420,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4691,"[""port_operational_disruption""]"
+3277,"[""weather_disruption""]"
+2635,"[""weather_disruption""]"
+1136,[]
+3025,"[""weather_disruption""]"
+1744,"[""labor_strike_disruption""]"
+239,[]
+206,[]
+4466,"[""weather_disruption""]"
+2337,"[""weather_disruption""]"
+897,[]
+4634,"[""natural_disaster""]"
+2078,"[""port_operational_disruption""]"
+4079,"[""port_operational_disruption""]"
+2735,"[""labor_strike_disruption""]"
+4948,"[""natural_disaster""]"
+4837,[]
+728,[]
+4960,[]
+1254,"[""labor_strike_disruption""]"
+2965,[]
+5076,[]
+5422,[]
+5660,"[""labor_strike_disruption""]"
+3217,"[""port_operational_disruption""]"
+5195,[]
+216,"[""labor_strike_disruption""]"
+5312,"[""port_operational_disruption""]"
+747,[]
+4049,"[""port_operational_disruption""]"
+3202,"[""port_operational_disruption""]"
+871,[]
+1035,"[""natural_disaster""]"
+4954,[]
+4512,"[""weather_disruption""]"
+3980,"[""weather_disruption""]"
+3590,[]
+1730,"[""labor_strike_disruption""]"
+501,[]
+3205,"[""port_operational_disruption""]"
+3281,[]
+993,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+551,"[""port_operational_disruption""]"
+2707,"[""weather_disruption"", ""port_operational_disruption""]"
+3240,"[""port_operational_disruption""]"
+3324,"[""port_operational_disruption""]"
+1967,[]
+4917,[]
+1456,"[""port_closure""]"
+816,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2303,"[""labor_strike_disruption""]"
+5625,"[""weather_disruption""]"
+4697,[]
+3351,[]
+1192,"[""port_operational_disruption""]"
+4052,"[""labor_strike_disruption""]"
+17,"[""port_operational_disruption""]"
+1577,[]
+433,"[""weather_disruption"", ""port_operational_disruption""]"
+2651,[]
+485,"[""weather_disruption"", ""port_operational_disruption""]"
+5035,[]
+4141,[]
+2830,"[""port_operational_disruption""]"
+1063,"[""natural_disaster""]"
+426,"[""weather_disruption""]"
+4936,"[""weather_disruption""]"
+2351,"[""weather_disruption""]"
+3856,"[""maritime_security_navigation_disruption""]"
+1762,[]
+192,"[""port_operational_disruption""]"
+3022,"[""port_operational_disruption""]"
+4167,"[""weather_disruption""]"
+5458,"[""weather_disruption"", ""port_operational_disruption""]"
+717,[]
+5570,"[""natural_disaster""]"
+3819,"[""labor_strike_disruption""]"
+1857,"[""weather_disruption""]"
+2948,[]
+4583,"[""weather_disruption""]"
+1344,"[""weather_disruption""]"
+1519,"[""port_operational_disruption""]"
+1078,"[""labor_strike_disruption""]"
+2820,"[""port_operational_disruption""]"
+1041,"[""natural_disaster""]"
+3778,[]
+3271,[]
+3174,"[""port_operational_disruption""]"
+2079,"[""port_operational_disruption""]"
+4746,"[""weather_disruption""]"
+2216,"[""port_closure""]"
+5451,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1503,"[""port_operational_disruption""]"
+2277,"[""labor_strike_disruption""]"
+4819,"[""port_operational_disruption""]"
+799,"[""weather_disruption""]"
+3244,"[""port_operational_disruption"", ""port_closure""]"
+1210,"[""port_operational_disruption""]"
+724,"[""labor_strike_disruption""]"
+1240,"[""port_operational_disruption""]"
+1178,"[""port_operational_disruption""]"
+2758,"[""port_operational_disruption""]"
+5698,"[""weather_disruption""]"
+2659,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+601,"[""labor_strike_disruption""]"
+4266,"[""maritime_security_navigation_disruption""]"
+4868,"[""port_operational_disruption""]"
+3933,[]
+4571,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+203,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3718,"[""port_operational_disruption"", ""port_closure""]"
+2300,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1100,"[""natural_disaster""]"
+3624,"[""port_closure""]"
+4525,"[""labor_strike_disruption""]"
+4478,"[""weather_disruption""]"
+3147,[]
+4165,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4977,[]
+478,"[""labor_strike_disruption""]"
+4089,"[""weather_disruption""]"
+5399,"[""weather_disruption""]"
+3387,"[""port_operational_disruption""]"
+767,"[""natural_disaster""]"
+2766,"[""weather_disruption"", ""port_operational_disruption""]"
+1745,"[""labor_strike_disruption""]"
+3458,[]
+4036,[]
+4265,"[""maritime_security_navigation_disruption""]"
+4106,"[""port_operational_disruption""]"
+3400,[]
+4616,"[""port_operational_disruption""]"
+3286,"[""port_operational_disruption""]"
+3736,[]
+2702,"[""port_operational_disruption""]"
+4718,"[""port_operational_disruption""]"
+185,"[""port_operational_disruption"", ""maritime_security_navigation_disruption""]"
+2974,"[""port_operational_disruption""]"
+4363,"[""natural_disaster""]"
+2028,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4985,"[""port_operational_disruption""]"
+1128,"[""weather_disruption""]"
+1235,"[""port_operational_disruption""]"
+396,"[""port_operational_disruption""]"
+2004,[]
+2880,[]
+4889,"[""port_operational_disruption""]"
+1825,"[""port_operational_disruption""]"
+793,"[""weather_disruption""]"
+3136,"[""natural_disaster""]"
+307,"[""labor_strike_disruption""]"
+3735,[]
+974,"[""labor_strike_disruption""]"
+3234,"[""port_operational_disruption""]"
+2075,"[""port_operational_disruption""]"
+2356,"[""weather_disruption"", ""port_operational_disruption""]"
+3606,"[""maritime_security_navigation_disruption""]"
+4577,"[""weather_disruption"", ""port_closure""]"
+3732,"[""maritime_security_navigation_disruption""]"
+2354,"[""weather_disruption"", ""port_operational_disruption""]"
+4121,"[""weather_disruption""]"
+680,"[""weather_disruption""]"
+3987,[]
+2908,"[""weather_disruption""]"
+3259,"[""port_operational_disruption""]"
+5007,"[""port_operational_disruption""]"
+3556,[]
+5509,[]
+2810,[]
+5704,"[""weather_disruption""]"
+395,"[""port_operational_disruption""]"
+2308,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2293,"[""weather_disruption""]"
+3163,"[""weather_disruption"", ""port_closure""]"
+962,"[""weather_disruption""]"
+2296,"[""labor_strike_disruption""]"
+802,"[""weather_disruption""]"
+2029,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4397,"[""port_operational_disruption""]"
+1502,[]
+4010,"[""weather_disruption""]"
+4175,"[""weather_disruption""]"
+1176,"[""port_operational_disruption""]"
+2445,"[""labor_strike_disruption""]"
+4076,[]
+5219,[]
+3537,"[""labor_strike_disruption""]"
+5654,[]
+1721,"[""weather_disruption""]"
+1334,"[""weather_disruption""]"
+337,"[""weather_disruption""]"
+4124,"[""weather_disruption""]"
+2885,"[""port_operational_disruption""]"
+276,"[""weather_disruption""]"
+1454,"[""port_operational_disruption""]"
+4998,"[""weather_disruption"", ""port_closure""]"
+4125,"[""weather_disruption""]"
+2842,"[""port_operational_disruption""]"
+73,[]
+2212,"[""natural_disaster""]"
+425,[]
+3807,"[""maritime_security_navigation_disruption""]"
+3635,"[""labor_strike_disruption""]"
+29,"[""weather_disruption""]"
+2549,[]
+4137,[]
+1058,"[""weather_disruption""]"
+739,"[""weather_disruption""]"
+559,"[""weather_disruption"", ""port_operational_disruption""]"
+2103,"[""weather_disruption"", ""port_operational_disruption""]"
+769,"[""labor_strike_disruption""]"
+5033,"[""port_operational_disruption""]"
+1047,"[""natural_disaster""]"
+2848,[]
+5206,[]
+1195,"[""port_operational_disruption""]"
+300,"[""weather_disruption""]"
+423,"[""port_operational_disruption""]"
+4869,"[""port_operational_disruption""]"
+1239,"[""weather_disruption"", ""port_operational_disruption""]"
+5381,"[""labor_strike_disruption""]"
+583,"[""labor_strike_disruption""]"
+5585,"[""natural_disaster""]"
+3029,"[""port_operational_disruption""]"
+510,[]
+4251,[]
+4489,"[""labor_strike_disruption""]"
+2680,"[""port_operational_disruption""]"
+377,"[""weather_disruption""]"
+2365,"[""weather_disruption""]"
+5743,"[""port_operational_disruption""]"
+3100,"[""weather_disruption""]"
+2728,"[""labor_strike_disruption""]"
+2108,[]
+5659,"[""weather_disruption""]"
+2156,"[""natural_disaster""]"
+619,"[""weather_disruption"", ""port_operational_disruption""]"
+3037,"[""port_operational_disruption""]"
+2951,"[""weather_disruption""]"
+3946,"[""port_operational_disruption""]"
+1097,[]
+2150,"[""weather_disruption""]"
+1474,"[""labor_strike_disruption""]"
+5537,[]
+621,"[""weather_disruption""]"
+4264,"[""maritime_security_navigation_disruption""]"
+4143,[]
+4004,[]
+3825,[]
+722,"[""labor_strike_disruption""]"
+3740,[]
+5256,"[""labor_strike_disruption""]"
+1016,"[""natural_disaster""]"
+846,"[""port_operational_disruption""]"
+2405,"[""labor_strike_disruption""]"
+91,"[""port_operational_disruption""]"
+2608,"[""labor_strike_disruption""]"
+4946,"[""weather_disruption""]"
+3046,"[""port_operational_disruption""]"
+1853,[]
+2683,"[""port_operational_disruption""]"
+5652,"[""port_operational_disruption""]"
+3161,[]
+765,"[""natural_disaster""]"
+4087,"[""port_operational_disruption""]"
+3041,"[""port_operational_disruption""]"
+1167,"[""port_operational_disruption""]"
+1205,"[""weather_disruption""]"
+2785,[]
+78,"[""port_operational_disruption""]"
+3035,"[""port_operational_disruption""]"
+170,"[""weather_disruption""]"
+5623,[]
+528,"[""maritime_security_navigation_disruption""]"
+4527,"[""port_operational_disruption""]"
+5493,[]
+4859,[]
+517,[]
+4828,"[""port_operational_disruption""]"
+3645,"[""weather_disruption""]"
+5011,[]
+606,[]
+2700,[]
+2694,"[""port_operational_disruption""]"
+2776,"[""port_operational_disruption""]"
+4355,"[""labor_strike_disruption""]"
+3904,"[""weather_disruption""]"
+5492,[]
+2350,"[""weather_disruption""]"
+2465,"[""weather_disruption""]"
+5664,"[""labor_strike_disruption""]"
+1185,"[""port_operational_disruption""]"
+2825,"[""maritime_security_navigation_disruption""]"
+2073,"[""port_operational_disruption""]"
+2327,"[""weather_disruption""]"
+777,[]
+3821,[]
+1177,"[""port_operational_disruption""]"
+4768,"[""port_operational_disruption""]"
+2317,"[""weather_disruption""]"
+2847,"[""weather_disruption""]"
+3872,"[""weather_disruption"", ""port_operational_disruption""]"
+3457,"[""weather_disruption""]"
+2321,"[""weather_disruption""]"
+4378,"[""natural_disaster""]"
+1421,[]
+5319,"[""weather_disruption"", ""port_operational_disruption""]"
+5102,[]
+881,"[""weather_disruption""]"
+2345,"[""weather_disruption"", ""port_operational_disruption""]"
+1194,"[""port_operational_disruption""]"
+4687,"[""weather_disruption"", ""port_closure""]"
+2577,"[""weather_disruption""]"
+503,"[""weather_disruption"", ""port_closure""]"
+3032,"[""port_operational_disruption""]"
+1224,"[""labor_strike_disruption""]"
+2796,"[""port_operational_disruption""]"
+3539,"[""labor_strike_disruption""]"
+3997,[]
+512,[]
+5505,"[""weather_disruption""]"
+3326,[]
+2330,"[""weather_disruption""]"
+2918,"[""labor_strike_disruption""]"
+1227,"[""labor_strike_disruption""]"
+856,"[""weather_disruption""]"
+1839,"[""port_operational_disruption""]"
+2654,"[""port_operational_disruption""]"
+844,"[""maritime_security_navigation_disruption""]"
+1447,[]
+536,"[""weather_disruption""]"
+1892,"[""port_operational_disruption""]"
+4269,[]
+1207,"[""weather_disruption"", ""port_operational_disruption""]"
+3779,[]
+4996,"[""port_operational_disruption""]"
+9,"[""natural_disaster""]"
+1197,"[""port_operational_disruption""]"
+843,"[""port_operational_disruption""]"
+1127,"[""port_operational_disruption""]"
+3,"[""port_operational_disruption""]"
+472,"[""weather_disruption"", ""port_operational_disruption""]"
+3241,"[""port_operational_disruption""]"
+302,"[""port_operational_disruption""]"
+4553,"[""weather_disruption""]"
+230,"[""weather_disruption""]"
+4915,"[""labor_strike_disruption""]"
+1451,[]
+5352,"[""weather_disruption""]"
+4293,"[""labor_strike_disruption""]"
+612,"[""weather_disruption""]"
+564,"[""weather_disruption""]"
+2220,"[""port_operational_disruption""]"
+5016,"[""labor_strike_disruption""]"
+5749,"[""port_operational_disruption""]"
+2789,"[""port_operational_disruption""]"
+903,"[""weather_disruption"", ""port_operational_disruption""]"
+2112,"[""labor_strike_disruption""]"
+1732,"[""labor_strike_disruption""]"
+3711,"[""port_operational_disruption""]"
+879,"[""weather_disruption""]"
+4731,"[""maritime_security_navigation_disruption""]"
+602,"[""weather_disruption""]"
+2102,"[""weather_disruption""]"
+506,[]
+3071,"[""weather_disruption""]"
+149,"[""labor_strike_disruption""]"
+2149,"[""weather_disruption"", ""labor_strike_disruption""]"
+5177,"[""weather_disruption""]"
+2946,[]
+3287,"[""port_operational_disruption""]"
+3747,"[""maritime_security_navigation_disruption""]"
+4158,"[""weather_disruption""]"
+743,"[""labor_strike_disruption""]"
+2906,"[""labor_strike_disruption""]"
+5671,"[""labor_strike_disruption""]"
+2922,"[""labor_strike_disruption""]"
+837,[]
+1393,"[""port_operational_disruption""]"
+4844,"[""weather_disruption""]"
+2375,"[""weather_disruption"", ""port_operational_disruption""]"
+4723,"[""port_operational_disruption""]"
+366,"[""weather_disruption""]"
+225,[]
+3335,[]
+1217,"[""port_operational_disruption""]"
+1507,"[""labor_strike_disruption""]"
+5006,"[""port_operational_disruption""]"
+4146,"[""labor_strike_disruption""]"
+513,"[""labor_strike_disruption""]"
+5207,[]
+2403,"[""port_operational_disruption""]"
+1993,[]
+2434,"[""weather_disruption""]"
+1256,"[""labor_strike_disruption""]"
+3750,"[""maritime_security_navigation_disruption""]"
+3719,"[""port_operational_disruption"", ""port_closure""]"
+474,"[""port_operational_disruption""]"
+4188,"[""weather_disruption""]"
+235,"[""weather_disruption""]"
+1910,[]
+4178,"[""weather_disruption"", ""port_closure""]"
+2474,[]
+3155,"[""weather_disruption""]"
+1232,"[""port_operational_disruption""]"
+5220,[]
+3050,"[""port_operational_disruption""]"
+4242,[]
+4928,"[""port_closure""]"
+1916,"[""labor_strike_disruption""]"
+2650,[]
+4482,"[""weather_disruption""]"
+4595,"[""weather_disruption""]"
+144,[]
+4614,"[""weather_disruption"", ""natural_disaster""]"
+923,"[""weather_disruption"", ""port_operational_disruption""]"
+1764,[]
+3989,"[""port_operational_disruption""]"
+5757,"[""labor_strike_disruption""]"
+4387,"[""natural_disaster""]"
+2055,"[""weather_disruption""]"
+5494,[]
+768,"[""weather_disruption""]"
+5056,"[""port_operational_disruption""]"
+4236,[]
+2710,"[""weather_disruption""]"
+411,"[""weather_disruption""]"
+4409,"[""weather_disruption""]"
+2193,"[""port_operational_disruption""]"
+3730,"[""maritime_security_navigation_disruption""]"
+1263,[]
+4388,"[""port_operational_disruption""]"
+4741,"[""weather_disruption""]"
+5586,"[""weather_disruption""]"
+1899,"[""port_operational_disruption""]"
+1397,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+16,"[""natural_disaster""]"
+2116,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3208,"[""port_operational_disruption""]"
+3723,"[""port_closure""]"
+5449,"[""weather_disruption"", ""port_operational_disruption""]"
+104,"[""port_operational_disruption""]"
+4684,"[""labor_strike_disruption""]"
+2933,"[""port_operational_disruption""]"
+3407,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5555,"[""weather_disruption""]"
+3655,"[""labor_strike_disruption""]"
+2606,"[""labor_strike_disruption""]"
+4818,"[""port_operational_disruption""]"
+2677,"[""weather_disruption""]"
+3743,[]
+4096,[]
+3094,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1161,"[""port_operational_disruption""]"
+74,"[""port_operational_disruption""]"
+5567,"[""natural_disaster""]"
+3820,[]
+4257,[]
+4457,"[""weather_disruption"", ""port_operational_disruption""]"
+2070,"[""port_operational_disruption""]"
+4852,"[""port_operational_disruption""]"
+1048,"[""natural_disaster""]"
+1982,"[""natural_disaster"", ""labor_strike_disruption""]"
+3917,[]
+3858,[]
+4929,[]
+434,"[""port_operational_disruption"", ""port_closure""]"
+4621,"[""port_operational_disruption""]"
+2760,"[""port_operational_disruption""]"
+3466,"[""weather_disruption"", ""port_operational_disruption""]"
+4589,"[""weather_disruption""]"
+3578,[]
+4452,[]
+1221,"[""labor_strike_disruption""]"
+2701,"[""port_operational_disruption""]"
+1955,"[""labor_strike_disruption""]"
+4323,"[""weather_disruption""]"
+857,"[""port_operational_disruption""]"
+751,"[""weather_disruption""]"
+4932,"[""weather_disruption""]"
+5517,"[""weather_disruption""]"
+2584,"[""weather_disruption""]"
+3594,[]
+5057,"[""port_operational_disruption""]"
+3861,[]
+1000,"[""labor_strike_disruption""]"
+5739,"[""port_operational_disruption""]"
+4007,[]
+3708,"[""port_operational_disruption""]"
+2762,"[""weather_disruption"", ""port_operational_disruption""]"
+2401,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4864,"[""port_operational_disruption""]"
+1116,[]
+2763,"[""port_operational_disruption""]"
+5355,"[""weather_disruption""]"
+254,[]
+1595,"[""weather_disruption"", ""port_operational_disruption""]"
+2576,"[""weather_disruption""]"
+1704,[]
+2791,"[""weather_disruption"", ""port_operational_disruption""]"
+3803,[]
+3376,[]
+2367,"[""weather_disruption"", ""port_closure""]"
+3854,"[""maritime_security_navigation_disruption""]"
+524,"[""maritime_security_navigation_disruption""]"
+3014,[]
+2207,"[""weather_disruption"", ""port_operational_disruption""]"
+5289,[]
+1453,"[""weather_disruption"", ""port_operational_disruption""]"
+2657,"[""port_operational_disruption""]"
+3864,[]
+4044,"[""port_operational_disruption""]"
+5426,"[""weather_disruption""]"
+1346,"[""labor_strike_disruption""]"
+3381,[]
+4074,"[""maritime_security_navigation_disruption""]"
+260,"[""weather_disruption""]"
+1816,[]
+2129,[]
+2312,"[""weather_disruption""]"
+4472,"[""maritime_security_navigation_disruption""]"
+4829,"[""port_operational_disruption""]"
+4492,"[""weather_disruption"", ""port_operational_disruption""]"
+1631,"[""weather_disruption"", ""port_operational_disruption""]"
+2048,"[""port_operational_disruption""]"
+95,"[""labor_strike_disruption""]"
+1934,"[""weather_disruption""]"
+3793,"[""port_operational_disruption""]"
+138,[]
+370,[]
+2611,"[""labor_strike_disruption""]"
+1703,"[""weather_disruption""]"
+5583,"[""natural_disaster""]"
+4114,"[""weather_disruption""]"
+2027,"[""port_operational_disruption""]"
+1804,[]
+4205,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2123,[]
+2361,"[""weather_disruption"", ""port_operational_disruption""]"
+5502,[]
+5716,"[""labor_strike_disruption""]"
+4117,"[""weather_disruption""]"
+2115,"[""labor_strike_disruption""]"
+4904,[]
+1357,"[""weather_disruption""]"
+1968,[]
+1420,[]
+3051,"[""port_operational_disruption"", ""port_closure""]"
+4411,"[""weather_disruption"", ""port_operational_disruption""]"
+530,"[""labor_strike_disruption""]"
+2692,"[""port_operational_disruption""]"
+1851,"[""labor_strike_disruption""]"
+3184,[]
+3983,"[""port_operational_disruption""]"
+3626,"[""port_closure""]"
+2210,"[""weather_disruption"", ""natural_disaster""]"
+4204,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+120,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1384,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1951,[]
+5140,"[""weather_disruption""]"
+1284,[]
+3431,"[""port_operational_disruption"", ""port_closure""]"
+5231,"[""weather_disruption""]"
+4173,"[""weather_disruption""]"
+389,"[""weather_disruption""]"
+1356,"[""weather_disruption""]"
+4788,"[""weather_disruption""]"
+832,"[""port_operational_disruption""]"
+18,"[""weather_disruption""]"
+3709,"[""port_operational_disruption"", ""port_closure""]"
+4471,"[""port_operational_disruption""]"
+3985,[]
+4134,"[""port_operational_disruption""]"
+1929,"[""weather_disruption""]"
+1739,[]
+787,"[""labor_strike_disruption""]"
+5334,"[""port_operational_disruption""]"
+2368,"[""weather_disruption"", ""port_closure""]"
+2931,"[""port_operational_disruption""]"
+2649,"[""weather_disruption"", ""port_closure""]"
+2877,[]
+5092,[]
+2681,"[""weather_disruption""]"
+3199,"[""port_operational_disruption""]"
+3280,[]
+1612,"[""weather_disruption""]"
+1040,"[""natural_disaster""]"
+1791,"[""weather_disruption""]"
+912,"[""labor_strike_disruption""]"
+3160,[]
+3288,"[""port_operational_disruption"", ""port_closure""]"
+4272,[]
+86,"[""port_operational_disruption""]"
+855,"[""weather_disruption""]"
+3138,"[""labor_strike_disruption""]"
+5692,"[""weather_disruption""]"
+3224,"[""port_operational_disruption""]"
+5357,"[""weather_disruption""]"
+214,"[""labor_strike_disruption""]"
+2719,[]
+3964,[]
+5141,"[""weather_disruption""]"
+1615,"[""weather_disruption"", ""port_closure""]"
+1636,"[""port_operational_disruption""]"
+4194,"[""weather_disruption"", ""port_closure""]"
+2363,"[""weather_disruption"", ""port_operational_disruption""]"
+2801,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2844,"[""port_operational_disruption""]"
+5701,"[""port_operational_disruption""]"
+733,"[""weather_disruption""]"
+3726,"[""weather_disruption""]"
+5722,[]
+5331,"[""port_operational_disruption""]"
+2836,"[""port_operational_disruption""]"
+671,[]
+4757,"[""port_operational_disruption""]"
+84,"[""weather_disruption"", ""port_operational_disruption""]"
+3030,[]
+1437,"[""port_operational_disruption""]"
+4657,[]
+2947,"[""port_operational_disruption""]"
+4792,"[""weather_disruption""]"
+1219,"[""labor_strike_disruption""]"
+3368,[]
+4213,"[""weather_disruption"", ""port_closure""]"
+1579,"[""weather_disruption""]"
+5010,[]
+1044,"[""natural_disaster""]"
+2133,"[""weather_disruption""]"
+1643,"[""labor_strike_disruption""]"
+647,"[""labor_strike_disruption""]"
+2346,"[""weather_disruption"", ""port_operational_disruption""]"
+2556,"[""labor_strike_disruption""]"
+4916,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3965,[]
+14,"[""weather_disruption""]"
+1864,"[""labor_strike_disruption""]"
+3658,[]
+2507,"[""labor_strike_disruption""]"
+3818,"[""labor_strike_disruption""]"
+5286,[]
+2945,"[""labor_strike_disruption""]"
+2858,"[""port_operational_disruption""]"
+4281,[]
+3630,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1212,"[""weather_disruption"", ""port_operational_disruption""]"
+333,[]
+4081,"[""port_operational_disruption""]"
+5768,"[""weather_disruption""]"
+1079,[]
+4853,[]
+1619,"[""port_operational_disruption""]"
+3853,[]
+738,"[""weather_disruption"", ""port_operational_disruption""]"
+4881,"[""port_operational_disruption""]"
+2072,"[""port_operational_disruption""]"
+5385,"[""labor_strike_disruption""]"
+183,[]
+4607,"[""weather_disruption""]"
+3121,"[""port_operational_disruption""]"
+38,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2134,"[""labor_strike_disruption""]"
+1427,"[""weather_disruption""]"
+1658,"[""labor_strike_disruption""]"
+1668,"[""labor_strike_disruption""]"
+1387,"[""port_operational_disruption""]"
+4142,[]
+541,[]
+2674,"[""weather_disruption"", ""port_operational_disruption""]"
+4717,"[""port_operational_disruption""]"
+1201,"[""port_operational_disruption""]"
+3595,[]
+4721,"[""port_operational_disruption""]"
+4759,"[""port_operational_disruption""]"
+3540,"[""port_operational_disruption""]"
+248,"[""labor_strike_disruption""]"
+820,"[""port_operational_disruption""]"
+1696,"[""labor_strike_disruption""]"
+1666,[]
+1872,"[""port_operational_disruption""]"
+569,"[""labor_strike_disruption""]"
+828,"[""port_operational_disruption""]"
+418,[]
+1688,"[""port_operational_disruption""]"
+5575,"[""natural_disaster""]"
+2595,"[""labor_strike_disruption""]"
+4035,[]
+5232,"[""labor_strike_disruption""]"
+4674,"[""weather_disruption""]"
+2777,"[""weather_disruption"", ""port_operational_disruption""]"
+1654,"[""labor_strike_disruption""]"
+4951,"[""natural_disaster""]"
+1809,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1336,[]
+2263,"[""weather_disruption""]"
+2026,"[""port_operational_disruption""]"
+5597,"[""port_operational_disruption""]"
+1923,[]
+3598,[]
+2761,"[""port_operational_disruption""]"
+1863,"[""labor_strike_disruption""]"
+3801,"[""weather_disruption""]"
+3227,"[""port_operational_disruption""]"
+555,"[""weather_disruption"", ""port_operational_disruption""]"
+5162,"[""port_operational_disruption""]"
+4612,"[""weather_disruption""]"
+1286,"[""weather_disruption""]"
+3877,"[""weather_disruption""]"
+1236,"[""weather_disruption"", ""port_operational_disruption""]"
+190,[]
+4728,"[""weather_disruption""]"
+1431,[]
+3977,"[""weather_disruption"", ""port_operational_disruption""]"
+1723,"[""labor_strike_disruption""]"
+5666,"[""port_operational_disruption""]"
+842,[]
+1166,"[""port_operational_disruption""]"
+3613,"[""port_operational_disruption""]"
+5510,"[""labor_strike_disruption""]"
+5703,"[""weather_disruption""]"
+3842,[]
+5477,[]
+560,"[""weather_disruption"", ""port_operational_disruption""]"
+2582,"[""weather_disruption""]"
+4563,"[""weather_disruption"", ""port_operational_disruption""]"
+1605,[]
+4870,"[""port_operational_disruption""]"
+3749,"[""maritime_security_navigation_disruption""]"
+1168,"[""port_operational_disruption""]"
+4428,[]
+147,[]
+4326,"[""weather_disruption""]"
+719,"[""labor_strike_disruption""]"
+1757,"[""port_operational_disruption"", ""port_closure""]"
+5198,[]
+64,"[""weather_disruption""]"
+1164,"[""port_operational_disruption""]"
+4913,"[""port_operational_disruption""]"
+907,"[""weather_disruption"", ""port_operational_disruption""]"
+3782,"[""labor_strike_disruption""]"
+2304,[]
+1253,"[""labor_strike_disruption""]"
+1930,[]
+5539,[]
+4059,"[""port_closure""]"
+3460,"[""weather_disruption""]"
+5661,"[""port_closure"", ""maritime_security_navigation_disruption""]"
+4855,[]
+4210,"[""weather_disruption"", ""port_closure""]"
+869,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+97,"[""weather_disruption""]"
+1932,[]
+4766,"[""labor_strike_disruption""]"
+1881,"[""labor_strike_disruption""]"
+3570,[]
+1733,"[""labor_strike_disruption""]"
+106,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4708,"[""port_operational_disruption""]"
+1203,"[""port_operational_disruption"", ""port_closure""]"
+2244,"[""weather_disruption""]"
+2925,"[""labor_strike_disruption""]"
+1208,"[""weather_disruption"", ""port_operational_disruption""]"
+5532,"[""maritime_security_navigation_disruption""]"
+4991,"[""port_operational_disruption""]"
+3343,"[""port_operational_disruption""]"
+30,"[""natural_disaster""]"
+5732,[]
+3924,"[""port_operational_disruption""]"
+1076,"[""port_operational_disruption""]"
+2612,"[""labor_strike_disruption""]"
+4432,"[""labor_strike_disruption""]"
+2205,"[""weather_disruption"", ""port_operational_disruption""]"
+629,[]
+910,"[""labor_strike_disruption""]"
+5049,"[""port_operational_disruption""]"
+5606,[]
+3472,[]
+2378,"[""labor_strike_disruption""]"
+427,"[""weather_disruption"", ""port_operational_disruption""]"
+3580,[]
+2714,"[""labor_strike_disruption""]"
+3201,"[""port_operational_disruption""]"
+3426,"[""labor_strike_disruption""]"
+229,[]
+4273,"[""weather_disruption""]"
+4320,"[""port_operational_disruption""]"
+4000,"[""port_closure""]"
+4009,[]
+782,"[""labor_strike_disruption""]"
+2742,"[""port_operational_disruption""]"
+3610,[]
+2021,"[""weather_disruption""]"
+2533,[]
+2874,"[""port_operational_disruption""]"
+2199,"[""weather_disruption""]"
+4962,"[""weather_disruption""]"
+5367,"[""weather_disruption""]"
+4975,[]
+3625,"[""weather_disruption"", ""port_closure""]"
+570,"[""port_operational_disruption""]"
+2704,"[""labor_strike_disruption""]"
+4652,"[""labor_strike_disruption""]"
+2660,"[""weather_disruption""]"
+298,"[""weather_disruption""]"
+3776,[]
+4020,[]
+4784,"[""weather_disruption""]"
+2678,"[""weather_disruption""]"
+4814,[]
+745,"[""weather_disruption""]"
+4073,"[""weather_disruption""]"
+4026,"[""weather_disruption""]"
+4715,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+1625,"[""weather_disruption""]"
+866,"[""weather_disruption""]"
+3593,[]
+4874,"[""port_operational_disruption""]"
+4560,"[""weather_disruption"", ""port_closure""]"
+3765,[]
+4566,"[""labor_strike_disruption""]"
+4632,"[""natural_disaster""]"
+195,[]
+789,"[""labor_strike_disruption""]"
+2605,"[""labor_strike_disruption""]"
+5758,[]
+3410,[]
+804,"[""weather_disruption""]"
+2094,"[""port_operational_disruption""]"
+3206,"[""port_operational_disruption"", ""port_closure""]"
+5777,"[""weather_disruption""]"
+5291,"[""weather_disruption""]"
+2451,"[""weather_disruption""]"
+4695,"[""weather_disruption"", ""port_operational_disruption""]"
+4295,[]
+277,[]
+3675,"[""weather_disruption""]"
+5591,"[""weather_disruption""]"
+888,"[""weather_disruption"", ""port_operational_disruption""]"
+833,"[""port_operational_disruption""]"
+1690,"[""labor_strike_disruption""]"
+4100,"[""port_operational_disruption""]"
+113,[]
+180,"[""port_operational_disruption""]"
+1795,"[""weather_disruption""]"
+5178,"[""weather_disruption""]"
+4445,[]
+4495,"[""weather_disruption"", ""natural_disaster"", ""port_operational_disruption""]"
+650,"[""port_operational_disruption""]"
+589,"[""weather_disruption""]"
+851,[]
+2111,"[""weather_disruption""]"
+5063,"[""port_operational_disruption""]"
+2981,[]
+2085,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3568,"[""port_closure""]"
+1490,"[""labor_strike_disruption""]"
+3827,"[""port_closure""]"
+2291,"[""labor_strike_disruption""]"
+1945,"[""port_operational_disruption""]"
+4604,"[""weather_disruption""]"
+2740,"[""labor_strike_disruption""]"
+4942,[]
+3421,"[""port_operational_disruption""]"
+1996,[]
+3976,"[""weather_disruption""]"
+3937,[]
+1890,"[""port_operational_disruption""]"
+3906,"[""weather_disruption""]"
+3120,"[""port_operational_disruption""]"
+3242,"[""port_operational_disruption""]"
+992,[]
+2543,"[""weather_disruption""]"
+1768,[]
+3329,"[""weather_disruption""]"
+507,[]
+987,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4712,"[""port_operational_disruption""]"
+1546,"[""port_operational_disruption"", ""port_closure""]"
+638,"[""weather_disruption""]"
+2328,"[""weather_disruption"", ""port_operational_disruption""]"
+2281,"[""labor_strike_disruption""]"
+3474,[]
+4290,[]
+2926,"[""labor_strike_disruption""]"
+1093,"[""weather_disruption""]"
+921,"[""port_operational_disruption""]"
+3622,"[""weather_disruption""]"
+484,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4464,"[""labor_strike_disruption""]"
+3079,"[""port_operational_disruption""]"
+2050,"[""weather_disruption""]"
+2090,"[""weather_disruption""]"
+430,[]
+2699,"[""weather_disruption"", ""port_operational_disruption""]"
+3802,[]
+5513,[]
+59,"[""weather_disruption""]"
+5574,"[""natural_disaster""]"
+5263,"[""natural_disaster""]"
+5191,"[""labor_strike_disruption""]"
+3614,"[""labor_strike_disruption""]"
+3125,[]
+4803,"[""labor_strike_disruption""]"
+5347,"[""weather_disruption"", ""port_operational_disruption""]"
+5416,"[""port_operational_disruption""]"
+2730,[]
+4368,"[""natural_disaster""]"
+5004,"[""weather_disruption""]"
+388,"[""labor_strike_disruption""]"
+885,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5338,"[""port_operational_disruption""]"
+5036,"[""labor_strike_disruption""]"
+3899,[]
+2799,"[""labor_strike_disruption""]"
+221,[]
+770,"[""labor_strike_disruption""]"
+87,"[""weather_disruption""]"
+3237,"[""port_operational_disruption""]"
+327,"[""labor_strike_disruption""]"
+969,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1315,[]
+1244,"[""maritime_security_navigation_disruption""]"
+2051,[]
+1889,"[""port_operational_disruption""]"
+3133,"[""weather_disruption"", ""port_operational_disruption""]"
+630,[]
+1352,[]
+3721,"[""port_closure""]"
+4469,"[""weather_disruption""]"
+312,"[""labor_strike_disruption""]"
+5353,"[""weather_disruption""]"
+2444,"[""port_operational_disruption""]"
+4956,"[""weather_disruption""]"
+967,"[""weather_disruption""]"
+3995,"[""port_closure""]"
+2565,[]
+4408,"[""weather_disruption""]"
+4069,[]
+5155,"[""labor_strike_disruption""]"
+5541,"[""weather_disruption""]"
+5503,[]
+4263,"[""maritime_security_navigation_disruption""]"
+3283,"[""weather_disruption""]"
+5438,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5496,[]
+3968,"[""weather_disruption""]"
+2892,"[""weather_disruption""]"
+4313,[]
+1033,[]
+5164,[]
+2745,"[""port_operational_disruption""]"
+5485,"[""maritime_security_navigation_disruption""]"
+3067,[]
+4602,"[""weather_disruption"", ""port_operational_disruption""]"
+4532,"[""natural_disaster""]"
+3804,[]
+688,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+758,"[""weather_disruption""]"
+1769,[]
+1396,"[""port_operational_disruption""]"
+2819,"[""port_operational_disruption""]"
+3674,[]
+1138,"[""weather_disruption""]"
+853,"[""labor_strike_disruption""]"
+3418,"[""weather_disruption""]"
+3969,[]
+5110,[]
+2575,"[""weather_disruption"", ""port_operational_disruption""]"
+1187,"[""port_operational_disruption""]"
+2859,"[""weather_disruption"", ""port_operational_disruption""]"
+1271,"[""labor_strike_disruption""]"
+3034,"[""port_operational_disruption""]"
+1709,"[""port_operational_disruption""]"
+3328,"[""labor_strike_disruption""]"
+4338,"[""port_operational_disruption""]"
+4580,[]
+4816,"[""port_operational_disruption""]"
+4969,[]
+1624,"[""weather_disruption""]"
+970,"[""labor_strike_disruption""]"
+3182,[]
+1188,"[""port_operational_disruption""]"
+232,"[""weather_disruption""]"
+5061,[]
+2157,"[""weather_disruption""]"
+2815,"[""port_operational_disruption""]"
+1226,"[""labor_strike_disruption""]"
+3587,[]
+288,"[""weather_disruption""]"
+2633,"[""weather_disruption""]"
+2109,[]
+2316,"[""weather_disruption""]"
+4716,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2208,"[""weather_disruption"", ""port_operational_disruption""]"
+5201,"[""labor_strike_disruption""]"
+5241,"[""port_operational_disruption""]"
+1545,"[""port_closure""]"
+3754,[]
+5487,"[""maritime_security_navigation_disruption""]"
+4976,[]
+2903,[]
+5089,"[""labor_strike_disruption""]"
+4931,"[""port_operational_disruption""]"
+5264,"[""natural_disaster""]"
+4599,"[""port_operational_disruption""]"
+56,[]
+611,"[""weather_disruption""]"
+2749,"[""port_operational_disruption""]"
+5571,"[""natural_disaster""]"
+3990,[]
+1752,"[""labor_strike_disruption""]"
+5384,"[""labor_strike_disruption""]"
+5612,"[""maritime_security_navigation_disruption""]"
+5580,"[""natural_disaster""]"
+2294,"[""weather_disruption""]"
+656,"[""port_operational_disruption""]"
+1760,"[""port_closure""]"
+2569,"[""labor_strike_disruption""]"
+274,[]
+3901,"[""weather_disruption"", ""port_operational_disruption""]"
+5750,"[""port_operational_disruption""]"
+3973,"[""labor_strike_disruption""]"
+4483,[]
+4747,[]
+1118,[]
+261,"[""weather_disruption""]"
+4677,"[""weather_disruption"", ""port_operational_disruption""]"
+103,"[""weather_disruption"", ""port_operational_disruption""]"
+4756,"[""port_operational_disruption""]"
+4169,"[""weather_disruption"", ""port_operational_disruption""]"
+3878,[]
+3425,"[""port_operational_disruption""]"
+836,[]
+2529,"[""labor_strike_disruption""]"
+2656,"[""port_operational_disruption""]"
+1659,"[""weather_disruption""]"
+2744,"[""port_operational_disruption""]"
+2691,"[""port_operational_disruption""]"
+4133,"[""port_operational_disruption""]"
+4526,"[""labor_strike_disruption""]"
+1475,[]
+2865,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3641,"[""weather_disruption""]"
+1064,"[""weather_disruption""]"
+3469,"[""weather_disruption"", ""labor_strike_disruption""]"
+1001,[]
+1321,[]
+762,[]
+4897,[]
+3366,[]
+2887,"[""weather_disruption"", ""port_closure""]"
+3126,[]
+525,"[""maritime_security_navigation_disruption""]"
+2929,"[""port_operational_disruption""]"
+731,"[""labor_strike_disruption""]"
+2869,"[""weather_disruption""]"
+4219,"[""weather_disruption"", ""port_operational_disruption""]"
+2305,[]
+5096,"[""labor_strike_disruption""]"
+4610,"[""port_operational_disruption""]"
+4749,"[""weather_disruption""]"
+4171,"[""weather_disruption"", ""port_closure""]"
+4699,"[""weather_disruption""]"
+4335,[]
+4181,"[""weather_disruption"", ""port_closure""]"
+2204,"[""weather_disruption""]"
+5775,[]
+5741,"[""port_operational_disruption""]"
+5280,[]
+15,"[""labor_strike_disruption""]"
+5423,[]
+3002,"[""labor_strike_disruption""]"
+1617,"[""port_closure""]"
+624,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2972,"[""weather_disruption""]"
+3582,[]
+4414,"[""labor_strike_disruption""]"
+1439,[]
+77,"[""port_operational_disruption""]"
+3999,[]
+587,[]
+1458,[]
+85,"[""port_operational_disruption""]"
+2301,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1023,"[""natural_disaster""]"
+1343,"[""labor_strike_disruption""]"
+4283,[]
+854,"[""port_operational_disruption""]"
+2370,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2056,"[""weather_disruption"", ""port_operational_disruption""]"
+2318,"[""weather_disruption""]"
+5735,"[""port_operational_disruption""]"
+4544,"[""port_operational_disruption""]"
+1115,"[""labor_strike_disruption""]"
+2049,[]
+687,"[""labor_strike_disruption""]"
+3764,[]
+896,"[""labor_strike_disruption""]"
+2769,"[""port_operational_disruption""]"
+744,"[""weather_disruption""]"
+35,[]
+5104,[]
+5009,"[""weather_disruption""]"
+986,[]
+2340,"[""weather_disruption""]"
+3939,[]
+3312,"[""port_operational_disruption""]"
+2319,"[""weather_disruption""]"
+1698,[]
+1749,"[""labor_strike_disruption""]"
+1394,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3584,[]
+5588,"[""maritime_security_navigation_disruption""]"
+448,"[""weather_disruption""]"
+1576,[]
+3117,[]
+2162,[]
+1657,"[""labor_strike_disruption""]"
+1831,[]
+4443,[]
+393,"[""weather_disruption""]"
+3113,[]
+4180,"[""weather_disruption""]"
+672,"[""labor_strike_disruption""]"
+4801,"[""port_operational_disruption""]"
+5456,"[""weather_disruption""]"
+5295,"[""port_operational_disruption""]"
+2259,"[""labor_strike_disruption""]"
+157,"[""labor_strike_disruption""]"
+2038,"[""port_operational_disruption""]"
+759,"[""weather_disruption""]"
+755,"[""weather_disruption""]"
+927,"[""weather_disruption""]"
+922,[]
+1896,"[""port_operational_disruption""]"
+1339,"[""weather_disruption""]"
+4358,"[""labor_strike_disruption""]"
+450,"[""weather_disruption"", ""port_operational_disruption""]"
+4086,"[""weather_disruption""]"
+5710,"[""weather_disruption""]"
+2733,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+322,"[""port_operational_disruption""]"
+4029,[]
+3986,"[""port_operational_disruption""]"
+4705,"[""port_operational_disruption""]"
+2504,[]
+5171,"[""weather_disruption""]"
+5073,[]
+2081,"[""weather_disruption""]"
+5599,"[""labor_strike_disruption""]"
+2096,[]
+268,"[""weather_disruption""]"
+518,[]
+667,[]
+2940,"[""port_operational_disruption""]"
+1477,"[""maritime_security_navigation_disruption""]"
+2419,"[""weather_disruption""]"
+852,"[""port_operational_disruption""]"
+2087,"[""weather_disruption""]"
+5441,"[""weather_disruption""]"
+1081,[]
+5188,"[""labor_strike_disruption""]"
+3308,[]
+3550,"[""labor_strike_disruption""]"
+399,"[""weather_disruption""]"
+2708,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4831,"[""port_operational_disruption""]"
+830,"[""weather_disruption""]"
+3915,[]
+5341,"[""weather_disruption""]"
+3377,[]
+5362,"[""weather_disruption""]"
+3757,"[""natural_disaster""]"
+3445,"[""port_operational_disruption""]"
+363,"[""maritime_security_navigation_disruption""]"
+5467,"[""weather_disruption""]"
+4402,"[""port_operational_disruption""]"
+4670,"[""weather_disruption"", ""port_operational_disruption""]"
+3944,[]
+1268,[]
+3758,"[""natural_disaster""]"
+5572,"[""natural_disaster""]"
+4535,"[""port_operational_disruption""]"
+2647,[]
+2562,"[""weather_disruption""]"
+4898,[]
+4742,"[""weather_disruption""]"
+499,"[""weather_disruption"", ""port_operational_disruption""]"
+2734,"[""labor_strike_disruption""]"
+2907,"[""weather_disruption"", ""port_operational_disruption""]"
+2198,"[""weather_disruption""]"
+2663,[]
+4827,"[""port_operational_disruption""]"
+839,"[""port_operational_disruption""]"
+1130,"[""labor_strike_disruption""]"
+2841,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+761,"[""weather_disruption""]"
+1711,[]
+2818,"[""labor_strike_disruption""]"
+2939,"[""port_operational_disruption""]"
+4393,"[""port_operational_disruption""]"
+2807,"[""weather_disruption""]"
+2787,"[""weather_disruption"", ""port_operational_disruption""]"
+2614,"[""labor_strike_disruption""]"
+79,"[""weather_disruption"", ""port_operational_disruption""]"
+4016,"[""weather_disruption"", ""port_operational_disruption""]"
+2404,"[""weather_disruption""]"
+2838,"[""port_closure""]"
+3951,[]
+3350,[]
+5425,[]
+1029,"[""natural_disaster""]"
+1368,"[""labor_strike_disruption""]"
+1883,"[""weather_disruption""]"
+3434,[]
+2120,"[""labor_strike_disruption""]"
+794,[]
+750,"[""weather_disruption""]"
+5354,"[""weather_disruption""]"
+4262,"[""maritime_security_navigation_disruption""]"
+4386,[]
+44,"[""labor_strike_disruption""]"
+4722,"[""weather_disruption""]"
+255,"[""weather_disruption""]"
+1391,"[""port_operational_disruption""]"
+4001,"[""weather_disruption""]"
+5163,[]
+4185,"[""weather_disruption""]"
+2384,"[""natural_disaster""]"
+1273,"[""labor_strike_disruption""]"
+3078,"[""port_operational_disruption""]"
+3449,[]
+1250,"[""maritime_security_navigation_disruption""]"
+3373,[]
+1629,"[""weather_disruption""]"
+2992,"[""labor_strike_disruption""]"
+2343,"[""weather_disruption"", ""port_operational_disruption""]"
+3761,"[""port_operational_disruption""]"
+256,[]
+4644,"[""port_operational_disruption""]"
+3000,"[""weather_disruption""]"
+1720,"[""labor_strike_disruption""]"
+3902,"[""port_operational_disruption"", ""port_closure""]"
+5644,"[""weather_disruption"", ""port_closure""]"
+3824,[]
+1565,"[""labor_strike_disruption""]"
+2386,"[""weather_disruption""]"
+2835,[]
+648,[]
+4997,"[""port_operational_disruption""]"
+771,[]
+2450,"[""labor_strike_disruption""]"
+1383,"[""port_operational_disruption""]"
+4903,[]
+2100,"[""port_closure""]"
+5230,"[""port_operational_disruption""]"
+515,"[""weather_disruption""]"
+2243,"[""labor_strike_disruption""]"
+4696,"[""weather_disruption"", ""port_operational_disruption""]"
+1826,"[""port_operational_disruption""]"
+1818,"[""labor_strike_disruption""]"
+5702,"[""weather_disruption""]"
+1897,"[""port_operational_disruption""]"
+1570,"[""labor_strike_disruption""]"
+878,"[""weather_disruption""]"
+1162,"[""port_operational_disruption""]"
+4187,"[""weather_disruption""]"
+4342,"[""weather_disruption""]"
+32,[]
+1554,"[""weather_disruption""]"
+2914,"[""weather_disruption""]"
+1651,[]
+2339,"[""weather_disruption""]"
+4048,[]
+5450,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2033,"[""maritime_security_navigation_disruption""]"
+4454,[]
+3886,[]
+1220,"[""labor_strike_disruption""]"
+1050,"[""labor_strike_disruption""]"
+2775,"[""port_operational_disruption""]"
+989,"[""weather_disruption"", ""port_operational_disruption""]"
+4375,"[""labor_strike_disruption""]"
+421,"[""weather_disruption""]"
+4078,"[""port_operational_disruption""]"
+823,"[""port_operational_disruption""]"
+1963,"[""weather_disruption""]"
+3399,[]
+1866,"[""labor_strike_disruption""]"
+2097,"[""port_operational_disruption""]"
+4865,"[""port_operational_disruption""]"
+278,"[""labor_strike_disruption""]"
+1931,"[""weather_disruption""]"
+1053,"[""natural_disaster""]"
+3332,"[""labor_strike_disruption""]"
+2201,"[""weather_disruption""]"
+353,[]
+5760,"[""labor_strike_disruption""]"
+2751,"[""port_operational_disruption""]"
+3866,[]
+3882,"[""labor_strike_disruption""]"
+1737,[]
+2315,"[""weather_disruption""]"
+5072,[]
+4046,[]
+4704,"[""port_operational_disruption""]"
+4866,"[""port_operational_disruption""]"
+2531,[]
+2323,"[""weather_disruption""]"
+169,[]
+1981,"[""natural_disaster""]"
+2128,"[""labor_strike_disruption""]"
+1191,"[""port_operational_disruption""]"
+600,"[""labor_strike_disruption""]"
+3409,[]
+3256,"[""port_operational_disruption""]"
+1129,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1141,[]
+2246,"[""weather_disruption""]"
+3739,[]
+1803,[]
+2628,"[""labor_strike_disruption""]"
+1543,"[""weather_disruption""]"
+5439,"[""labor_strike_disruption""]"
+1614,"[""port_closure""]"
+3141,[]
+2978,"[""labor_strike_disruption""]"
+5759,[]
+39,"[""port_operational_disruption""]"
+2311,"[""labor_strike_disruption""]"
+5167,"[""weather_disruption""]"
+4415,"[""labor_strike_disruption""]"
+1700,[]
+1600,"[""port_operational_disruption""]"
+2709,"[""labor_strike_disruption""]"
+1295,[]
+476,"[""labor_strike_disruption""]"
+5566,"[""natural_disaster""]"
+5515,[]
+898,[]
+3823,[]
+4042,"[""weather_disruption""]"
+5283,"[""weather_disruption""]"
+2344,"[""weather_disruption"", ""port_operational_disruption""]"
+177,"[""weather_disruption"", ""port_operational_disruption""]"
+1131,"[""labor_strike_disruption""]"
+5383,"[""weather_disruption""]"
+178,"[""port_operational_disruption""]"
+4966,"[""maritime_security_navigation_disruption""]"
+52,"[""labor_strike_disruption""]"
+3865,[]
+5310,"[""weather_disruption""]"
+2950,"[""port_operational_disruption""]"
+4800,"[""weather_disruption""]"
+5468,"[""weather_disruption""]"
+1386,"[""port_operational_disruption""]"
+5304,"[""weather_disruption""]"
+3623,"[""weather_disruption""]"
+2173,"[""weather_disruption""]"
+3236,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+5726,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+100,"[""labor_strike_disruption""]"
+4473,"[""maritime_security_navigation_disruption""]"
+920,"[""weather_disruption"", ""port_operational_disruption""]"
+2015,[]
+540,[]
+4671,"[""weather_disruption""]"
+516,"[""weather_disruption"", ""port_operational_disruption""]"
+2469,"[""port_operational_disruption""]"
+1056,"[""weather_disruption"", ""port_operational_disruption""]"
+3992,[]
+1182,"[""port_operational_disruption""]"
+5093,[]
+140,[]
+4401,"[""port_operational_disruption""]"
+1596,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3597,[]
+3276,"[""labor_strike_disruption""]"
+449,[]
+4421,[]
+1468,[]
+5618,[]
+1057,"[""natural_disaster""]"
+2322,"[""weather_disruption""]"
+3814,"[""labor_strike_disruption""]"
+3763,[]
+3859,[]
+4301,[]
+5490,"[""maritime_security_navigation_disruption""]"
+3330,[]
+1717,"[""labor_strike_disruption""]"
+4097,"[""weather_disruption""]"
+821,"[""port_operational_disruption""]"
+2537,"[""weather_disruption""]"
+4064,"[""weather_disruption""]"
+1017,"[""weather_disruption""]"
+5238,[]
+2883,"[""weather_disruption""]"
+3148,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4943,[]
+5187,"[""weather_disruption""]"
+5551,"[""weather_disruption""]"
+868,"[""weather_disruption"", ""port_operational_disruption""]"
+620,"[""weather_disruption""]"
+347,"[""labor_strike_disruption""]"
+306,"[""labor_strike_disruption""]"
+947,"[""weather_disruption""]"
+1712,"[""port_operational_disruption""]"
+4416,"[""port_operational_disruption""]"
+4374,"[""natural_disaster""]"
+3247,[]
+2802,[]
+3633,"[""port_operational_disruption""]"
+1060,"[""natural_disaster""]"
+33,[]
+374,"[""labor_strike_disruption""]"
+5543,[]
+5356,[]
+3926,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3527,"[""weather_disruption""]"
+3062,"[""port_operational_disruption"", ""port_closure""]"
+2979,"[""labor_strike_disruption""]"
+338,"[""weather_disruption""]"
+5479,[]
+4646,"[""weather_disruption""]"
+1180,"[""port_operational_disruption""]"
+2124,"[""weather_disruption""]"
+4058,"[""port_closure""]"
+542,"[""port_operational_disruption""]"
+1424,[]
+5378,"[""weather_disruption""]"
+5210,[]
+2594,"[""weather_disruption""]"
+3954,"[""weather_disruption""]"
+1070,"[""natural_disaster""]"
+1965,"[""labor_strike_disruption""]"
+4668,"[""weather_disruption"", ""natural_disaster"", ""port_operational_disruption""]"
+4703,"[""port_operational_disruption""]"
+4789,"[""port_operational_disruption""]"
+2676,"[""weather_disruption"", ""port_operational_disruption""]"
+917,"[""port_operational_disruption""]"
+2535,"[""labor_strike_disruption""]"
+2266,[]
+5733,"[""weather_disruption""]"
+5154,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5142,"[""natural_disaster""]"
+4259,"[""maritime_security_navigation_disruption""]"
+4021,[]
+4854,"[""port_operational_disruption""]"
+3075,"[""port_operational_disruption""]"
+3245,"[""port_operational_disruption""]"
+3395,"[""port_operational_disruption""]"
+5474,"[""weather_disruption"", ""port_operational_disruption""]"
+4292,[]
+1842,"[""port_operational_disruption""]"
+1275,"[""labor_strike_disruption""]"
+172,[]
+4051,[]
+5578,"[""natural_disaster""]"
+3374,[]
+2548,"[""labor_strike_disruption""]"
+2037,"[""labor_strike_disruption""]"
+5627,"[""weather_disruption"", ""port_closure""]"
+4574,[]
+4965,"[""maritime_security_navigation_disruption""]"
+2764,"[""port_operational_disruption"", ""port_closure""]"
+5484,[]
+1332,[]
+2046,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3018,[]
+4019,[]
+5723,"[""port_operational_disruption""]"
+2489,"[""labor_strike_disruption""]"
+596,"[""labor_strike_disruption""]"
+1428,"[""labor_strike_disruption""]"
+2086,"[""port_operational_disruption""]"
+2616,"[""labor_strike_disruption""]"
+2567,"[""labor_strike_disruption""]"
+3714,"[""port_operational_disruption"", ""port_closure""]"
+3027,"[""port_operational_disruption""]"
+3059,"[""port_operational_disruption""]"
+4398,"[""port_operational_disruption""]"
+228,"[""weather_disruption""]"
+1024,[]
+1107,"[""labor_strike_disruption""]"
+3575,"[""maritime_security_navigation_disruption""]"
+2098,"[""port_operational_disruption""]"
+1547,"[""port_operational_disruption""]"
+2127,[]
+1021,"[""weather_disruption""]"
+582,"[""labor_strike_disruption""]"
+356,"[""labor_strike_disruption""]"
+4693,"[""weather_disruption""]"
+1550,"[""labor_strike_disruption""]"
+831,"[""port_operational_disruption""]"
+3420,"[""weather_disruption"", ""port_closure""]"
+5387,[]
+2309,"[""labor_strike_disruption""]"
+3230,"[""port_operational_disruption""]"
+909,"[""weather_disruption"", ""port_operational_disruption""]"
+10,"[""natural_disaster""]"
+3896,[]
+2076,"[""port_operational_disruption""]"
+2126,"[""port_operational_disruption""]"
+99,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+2747,"[""port_operational_disruption""]"
+3300,[]
+3359,"[""weather_disruption""]"
+2737,"[""weather_disruption""]"
+4340,[]
+2629,"[""labor_strike_disruption""]"
+5744,"[""port_operational_disruption""]"
+4260,"[""maritime_security_navigation_disruption""]"
+5335,"[""port_operational_disruption""]"
+1364,[]
+4108,[]
+313,"[""labor_strike_disruption""]"
+2896,[]
+3881,"[""labor_strike_disruption""]"
+4919,[]
+2748,"[""port_operational_disruption""]"
+3943,[]
+34,[]
+3530,"[""weather_disruption""]"
+4166,"[""labor_strike_disruption""]"
+4366,"[""natural_disaster""]"
+2826,"[""weather_disruption""]"
+4615,"[""port_operational_disruption""]"
+1840,"[""port_operational_disruption""]"
+613,"[""weather_disruption"", ""port_operational_disruption""]"
+5424,[]
+5453,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4600,"[""port_operational_disruption""]"
+4075,"[""maritime_security_navigation_disruption""]"
+1859,"[""weather_disruption"", ""port_operational_disruption""]"
+46,[]
+4119,"[""weather_disruption""]"
+4963,"[""maritime_security_navigation_disruption""]"
+1405,"[""weather_disruption""]"
+2184,[]
+3991,"[""weather_disruption"", ""port_closure""]"
+3056,"[""port_operational_disruption""]"
+3342,"[""port_operational_disruption""]"
+2568,"[""labor_strike_disruption""]"
+3058,"[""port_operational_disruption""]"
+2753,"[""port_operational_disruption""]"
+3195,"[""port_operational_disruption""]"
+665,[]
+3325,[]
+3996,[]
+3671,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+362,"[""port_operational_disruption""]"
+2954,[]
+5282,[]
+2636,"[""weather_disruption""]"
+5261,"[""maritime_security_navigation_disruption""]"
+1794,"[""weather_disruption""]"
+2558,"[""labor_strike_disruption""]"
+5226,"[""weather_disruption""]"
+4678,"[""labor_strike_disruption""]"
+5348,"[""labor_strike_disruption""]"
+2138,[]
+3554,"[""port_closure""]"
+2302,"[""port_operational_disruption""]"
+92,"[""weather_disruption""]"
+1400,"[""port_operational_disruption""]"
+2685,"[""weather_disruption"", ""port_operational_disruption""]"
+1495,"[""weather_disruption""]"
+5512,[]
+1196,"[""port_operational_disruption""]"
+3955,[]
+3699,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3417,"[""port_closure""]"
+2471,"[""labor_strike_disruption""]"
+4459,"[""weather_disruption""]"
+2452,"[""labor_strike_disruption""]"
+1756,"[""port_operational_disruption""]"
+1813,"[""weather_disruption""]"
+3589,[]
+803,"[""weather_disruption""]"
+3181,"[""maritime_security_navigation_disruption""]"
+673,"[""labor_strike_disruption""]"
+354,"[""labor_strike_disruption""]"
+2870,"[""weather_disruption""]"
+4804,[]
+1135,"[""weather_disruption""]"
+258,[]
+691,"[""labor_strike_disruption""]"
+4406,[]
+4024,[]
+3646,"[""weather_disruption""]"
+290,"[""weather_disruption""]"
+1586,"[""weather_disruption""]"
+5427,"[""weather_disruption""]"
+3846,"[""port_closure""]"
+4230,"[""weather_disruption""]"
+3769,"[""weather_disruption""]"
+626,"[""weather_disruption"", ""port_operational_disruption""]"
+5488,"[""maritime_security_navigation_disruption""]"
+5339,"[""weather_disruption"", ""port_operational_disruption""]"
+4777,[]
+2416,[]
+492,"[""weather_disruption"", ""port_closure""]"
+209,[]
+1626,"[""weather_disruption""]"
+2944,"[""labor_strike_disruption""]"
+1836,[]
+4791,"[""maritime_security_navigation_disruption""]"
+5413,"[""weather_disruption"", ""natural_disaster""]"
+1255,"[""labor_strike_disruption""]"
+352,[]
+3715,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+5418,"[""port_operational_disruption""]"
+2227,[]
+4605,[]
+3093,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+1938,"[""weather_disruption"", ""port_operational_disruption""]"
+4872,"[""port_operational_disruption"", ""port_closure""]"
+5737,"[""port_operational_disruption""]"
+2306,[]
+3748,"[""maritime_security_navigation_disruption""]"
+4591,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+4280,[]
+5674,"[""weather_disruption""]"
+3065,"[""labor_strike_disruption""]"
+486,"[""port_operational_disruption""]"
+2935,"[""weather_disruption"", ""port_operational_disruption""]"
+3429,"[""port_operational_disruption"", ""port_closure""]"
+3272,[]
+2159,"[""maritime_security_navigation_disruption""]"
+1691,"[""labor_strike_disruption""]"
+2036,"[""weather_disruption""]"
+3884,[]
+4033,"[""weather_disruption""]"
+594,"[""weather_disruption""]"
+4501,"[""weather_disruption""]"
+2058,"[""port_operational_disruption""]"
+4481,[]
+4250,"[""weather_disruption""]"
+5066,"[""labor_strike_disruption""]"
+5679,"[""weather_disruption""]"
+4743,"[""weather_disruption""]"
+697,"[""labor_strike_disruption""]"
+2686,"[""port_operational_disruption""]"
+3216,"[""port_operational_disruption""]"
+3406,[]
+1680,"[""labor_strike_disruption""]"
+5174,"[""port_operational_disruption""]"
+4971,[]
+1812,"[""labor_strike_disruption""]"
+1425,"[""labor_strike_disruption""]"
+2591,"[""natural_disaster""]"
+4407,[]
+4945,"[""weather_disruption""]"
+2845,"[""labor_strike_disruption""]"
+4268,[]
+3077,"[""port_operational_disruption""]"
+3102,"[""weather_disruption""]"
+1404,"[""weather_disruption"", ""port_operational_disruption""]"
+3371,[]
+5499,[]
+4726,"[""port_operational_disruption""]"
+2196,"[""weather_disruption""]"
+1008,"[""labor_strike_disruption""]"
+2282,"[""labor_strike_disruption""]"
+976,"[""weather_disruption""]"
+4541,"[""weather_disruption""]"
+2171,[]
+685,"[""weather_disruption"", ""port_operational_disruption""]"
+562,"[""weather_disruption""]"
+800,"[""weather_disruption""]"
+1233,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+5368,"[""weather_disruption"", ""port_closure""]"
+3255,"[""port_operational_disruption""]"
+2287,"[""labor_strike_disruption""]"
+2083,"[""weather_disruption""]"
+4550,"[""weather_disruption""]"
+2092,"[""port_operational_disruption""]"
+4873,"[""port_operational_disruption""]"
+1223,"[""labor_strike_disruption""]"
+109,"[""weather_disruption""]"
+400,[]
+3246,"[""weather_disruption"", ""port_operational_disruption""]"
+5711,"[""weather_disruption""]"
+1326,[]
+1802,[]
+4369,"[""port_operational_disruption""]"
+5742,"[""port_operational_disruption""]"
+5461,"[""weather_disruption""]"
+4367,"[""natural_disaster""]"
+4795,"[""labor_strike_disruption""]"
+4505,[]
+824,"[""port_operational_disruption""]"
+420,[]
+4793,"[""port_operational_disruption""]"
+1241,[]
+5469,"[""weather_disruption"", ""port_operational_disruption""]"
+880,"[""weather_disruption""]"
+2927,"[""weather_disruption""]"
+651,[]
+5158,"[""labor_strike_disruption""]"
+4113,"[""weather_disruption""]"
+3179,[]
+817,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+538,"[""labor_strike_disruption""]"
+3953,[]
+3187,[]
+1650,"[""labor_strike_disruption""]"
+1122,"[""labor_strike_disruption""]"
+2579,"[""weather_disruption""]"
+2609,"[""labor_strike_disruption""]"
+289,[]
+1158,"[""port_operational_disruption""]"
+5296,[]
+876,"[""weather_disruption""]"
+2743,"[""port_operational_disruption""]"
+2697,"[""labor_strike_disruption""]"
+1563,[]
+617,"[""weather_disruption"", ""port_operational_disruption""]"
+293,"[""weather_disruption""]"
+5536,"[""labor_strike_disruption""]"
+760,"[""weather_disruption""]"
+1193,"[""port_operational_disruption""]"
+3891,"[""labor_strike_disruption""]"
+2792,"[""port_operational_disruption""]"
+4383,"[""weather_disruption""]"
+24,"[""natural_disaster""]"
+498,"[""labor_strike_disruption""]"
+5457,"[""weather_disruption""]"
+2153,"[""port_operational_disruption""]"
+1544,[]
+873,"[""weather_disruption"", ""port_operational_disruption""]"
+3142,"[""natural_disaster""]"
+1905,"[""labor_strike_disruption""]"
+4500,"[""weather_disruption""]"
+5657,"[""weather_disruption""]"
+3621,"[""weather_disruption""]"
+3956,[]
+2560,"[""labor_strike_disruption""]"
+3123,"[""port_operational_disruption""]"
+4186,"[""weather_disruption""]"
+4651,"[""weather_disruption"", ""port_closure""]"
+5390,[]
+5626,"[""port_operational_disruption""]"
+2805,"[""port_operational_disruption"", ""port_closure""]"
+4297,[]
+895,[]
+8,"[""weather_disruption""]"
+4858,"[""port_operational_disruption""]"
+1419,"[""port_operational_disruption""]"
+48,"[""maritime_security_navigation_disruption""]"
+5194,[]
+3629,"[""weather_disruption"", ""port_closure""]"
+3880,"[""weather_disruption"", ""port_closure""]"
+4617,"[""weather_disruption""]"
+2278,"[""labor_strike_disruption""]"
+3644,"[""weather_disruption"", ""port_operational_disruption""]"
+1237,"[""port_operational_disruption""]"
+775,[]
+4191,"[""weather_disruption"", ""port_closure""]"
+482,"[""weather_disruption""]"
+1417,"[""weather_disruption"", ""port_operational_disruption""]"
+2564,"[""labor_strike_disruption""]"
+2353,"[""weather_disruption""]"
+3762,"[""weather_disruption"", ""natural_disaster""]"
+5483,"[""port_operational_disruption""]"
+3218,"[""port_operational_disruption""]"
+3497,[]
+369,"[""weather_disruption""]"
+2284,"[""labor_strike_disruption""]"
+259,"[""weather_disruption""]"
+2587,"[""natural_disaster""]"
+5552,"[""weather_disruption""]"
+1065,"[""natural_disaster""]"
+5761,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+28,"[""natural_disaster""]"
+1618,"[""port_closure""]"
+4312,"[""port_operational_disruption""]"
+5020,[]
+5511,[]
+5770,"[""labor_strike_disruption""]"
+2598,"[""labor_strike_disruption""]"
+2832,[]
+3534,[]
+3026,"[""port_operational_disruption""]"
+3862,[]
+2853,"[""weather_disruption""]"
+3261,"[""port_operational_disruption""]"
+641,"[""labor_strike_disruption""]"
+3816,"[""labor_strike_disruption""]"
+2772,"[""port_operational_disruption""]"
+1767,[]
+5075,[]
+280,[]
+5452,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+3427,[]
+5501,[]
+4228,"[""weather_disruption""]"
+2943,"[""weather_disruption""]"
+4978,[]
+5617,"[""weather_disruption""]"
+2967,"[""weather_disruption""]"
+2250,[]
+5772,[]
+4509,[]
+720,"[""labor_strike_disruption""]"
+5649,"[""labor_strike_disruption""]"
+3638,[]
+3599,"[""maritime_security_navigation_disruption""]"
+4390,"[""port_operational_disruption""]"
+2335,"[""weather_disruption"", ""port_operational_disruption""]"
+5751,"[""port_operational_disruption""]"
+2095,[]
+729,"[""labor_strike_disruption""]"
+4474,"[""maritime_security_navigation_disruption""]"
+2585,"[""labor_strike_disruption""]"
+4761,"[""port_operational_disruption""]"
+4720,"[""port_operational_disruption""]"
+5189,[]
+1861,"[""labor_strike_disruption""]"
+1463,[]
+5545,[]
+3585,[]
+4127,"[""port_closure""]"
+5665,[]
+5630,"[""weather_disruption""]"
+3134,[]
+4025,"[""weather_disruption""]"
+4496,"[""labor_strike_disruption""]"
+2915,"[""weather_disruption""]"
+2264,"[""weather_disruption""]"
+1598,[]
+3531,"[""weather_disruption""]"
+1987,"[""weather_disruption""]"
+2331,"[""weather_disruption""]"
+5632,"[""weather_disruption""]"
+1459,"[""port_closure""]"
+1838,"[""maritime_security_navigation_disruption""]"
+994,"[""port_operational_disruption"", ""labor_strike_disruption""]"
+3414,[]
+1914,"[""labor_strike_disruption""]"
+2949,"[""port_closure""]"
+883,"[""weather_disruption""]"
+979,"[""port_operational_disruption""]"
+5646,"[""weather_disruption"", ""port_operational_disruption""]"
+4776,"[""port_operational_disruption""]"
+5172,"[""weather_disruption""]"
+3974,"[""port_closure"", ""labor_strike_disruption""]"
+3756,"[""natural_disaster""]"
+4013,"[""port_operational_disruption""]"
+3577,"[""maritime_security_navigation_disruption""]"
+3670,[]
+5746,"[""port_operational_disruption""]"
+5074,[]
+3755,"[""natural_disaster""]"
+3176,[]
+3656,"[""labor_strike_disruption""]"
+2879,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+4581,"[""weather_disruption"", ""port_closure""]"
+1324,"[""port_operational_disruption""]"
+4055,[]
+2385,"[""labor_strike_disruption""]"
+257,"[""port_operational_disruption""]"
+2696,"[""weather_disruption"", ""port_operational_disruption"", ""labor_strike_disruption""]"
+5160,[]
+2790,"[""port_operational_disruption""]"
+4888,"[""port_operational_disruption""]"
+1287,[]
+4476,"[""maritime_security_navigation_disruption""]"
+4203,"[""weather_disruption""]"
+5260,"[""weather_disruption""]"
+5650,"[""port_operational_disruption""]"
+4341,[]
+2812,"[""port_operational_disruption"", ""port_closure""]"
+924,"[""weather_disruption"", ""port_operational_disruption""]"
+3702,"[""weather_disruption""]"
+4992,"[""port_operational_disruption""]"
+3909,"[""port_operational_disruption""]"
+1175,"[""port_operational_disruption""]"
+900,"[""labor_strike_disruption""]"
+1089,"[""weather_disruption""]"
+2125,[]
+4871,"[""port_operational_disruption""]"
+5621,"[""labor_strike_disruption""]"
+2545,"[""weather_disruption""]"
+2850,[]
+4642,"[""weather_disruption"", ""port_operational_disruption""]"
+5051,[]
+5360,"[""weather_disruption""]"
+2502,[]
+2669,"[""port_operational_disruption""]"
+3266,[]
+2379,[]
+386,"[""labor_strike_disruption""]"
+5675,"[""port_operational_disruption""]"
+1052,"[""natural_disaster""]"
+3549,"[""labor_strike_disruption""]"
+3467,[]
+373,[]
+3464,"[""port_operational_disruption""]"
+1267,"[""weather_disruption""]"
+3040,"[""port_operational_disruption""]"
+2060,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+2197,"[""weather_disruption"", ""port_operational_disruption""]"
+1163,"[""port_operational_disruption""]"
+2571,[]
+2736,"[""labor_strike_disruption""]"
+2689,"[""port_operational_disruption""]"
+4516,"[""port_operational_disruption""]"
+5042,[]
+4418,"[""weather_disruption""]"
+2203,"[""weather_disruption"", ""port_operational_disruption""]"
+3213,"[""port_operational_disruption""]"
+2061,[]
+3734,"[""maritime_security_navigation_disruption""]"
+4686,"[""weather_disruption"", ""port_operational_disruption"", ""port_closure""]"
+734,"[""weather_disruption""]"
+2516,"[""labor_strike_disruption""]"
+5412,"[""weather_disruption""]"
+3225,"[""port_operational_disruption""]"
+5776,"[""weather_disruption""]"
+3941,[]
+4758,"[""port_operational_disruption""]"
+3440,"[""port_operational_disruption""]"
+4104,"[""port_operational_disruption""]"
+4237,[]
+1989,"[""weather_disruption""]"
+3114,"[""labor_strike_disruption""]"
+2553,"[""weather_disruption""]"
+3229,"[""port_operational_disruption""]"
+657,"[""port_operational_disruption""]"
+3535,"[""port_operational_disruption"", ""port_closure""]"
+4672,"[""weather_disruption""]"
+1389,"[""port_operational_disruption""]"
+1647,[]
+4417,"[""labor_strike_disruption""]"
+2690,"[""port_operational_disruption""]"
+1909,"[""port_operational_disruption""]"
+5213,[]
+5193,"[""weather_disruption""]"
+968,"[""weather_disruption""]"
