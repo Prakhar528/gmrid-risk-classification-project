@@ -8,3 +8,5 @@ faiss-cpu
 matplotlib
 jupyter
 ipykernel
+transformers
+accelerate
